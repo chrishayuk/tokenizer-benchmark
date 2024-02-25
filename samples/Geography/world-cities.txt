@@ -1,0 +1,90 @@
+New York
+Tokyo (東京)
+Paris
+Cairo (القاهرة)
+Moscow (Москва)
+Rio de Janeiro
+Mumbai (मुंबई)
+Beijing (北京)
+Lagos
+Istanbul (İstanbul)
+Mexico City (Ciudad de México)
+Seoul (서울)
+Sydney
+Nairobi
+Buenos Aires
+Bangkok (กรุงเทพมหานคร)
+Berlin
+Johannesburg
+Rome (Roma)
+Toronto
+Tehran (تهران)
+Jakarta
+London
+Madrid
+Kuala Lumpur
+Santiago
+Athens (Αθήνα)
+Dubai (دبي)
+Vancouver
+Singapore (Singapura/新加坡/சிங்கப்பூர்)
+Helsinki (Helsingfors in Swedish)
+Buenos Aires
+Prague (Praha)
+Budapest
+Warsaw (Warszawa)
+Amsterdam
+Brussels (Bruxelles/Brussel)
+Vienna (Wien)
+Copenhagen (København)
+Stockholm
+Oslo
+Lisbon (Lisboa)
+Dublin (Baile Átha Cliath in Irish)
+Zurich (Zürich)
+Edinburgh
+Cardiff (Caerdydd in Welsh)
+Reykjavik
+Tallinn
+Riga
+Vilnius
+Belgrade (Beograd)
+Sofia
+Bucharest (București)
+Sarajevo
+Zagreb
+Ljubljana
+Skopje
+Tirana
+Minsk (Мінск)
+Kyiv (Київ)
+Addis Ababa (አዲስ አበባ)
+Cape Town
+Casablanca (الدار البيضاء)
+Algiers (الجزائر)
+Accra
+Dar es Salaam
+Kampala
+Luanda
+Antananarivo
+Dakar
+Harare
+Kigali
+Windhoek
+Lusaka
+Maputo
+Gaborone
+Freetown
+Monrovia
+Bamako
+Niamey
+São Paulo
+Bogotá
+Santiago
+Lima
+Buenos Aires
+Montevideo
+Caracas
+Quito
+La Paz
+Asunción

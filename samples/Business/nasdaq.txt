@@ -1,0 +1,50 @@
+Apple Inc.
+Microsoft Corporation
+Amazon.com Inc.
+Alphabet Inc.
+Facebook, Inc.
+Tesla, Inc.
+Nvidia Corporation
+Adobe Inc.
+Netflix, Inc.
+Intel Corporation
+Cisco Systems, Inc.
+Comcast Corporation
+PepsiCo, Inc.
+Starbucks Corporation
+Gilead Sciences, Inc.
+Amgen Inc.
+Biogen Inc.
+Costco Wholesale Corporation
+Booking Holdings Inc.
+PayPal Holdings, Inc.
+Broadcom Inc.
+Qualcomm Incorporated
+Baidu, Inc.
+JD.com, Inc.
+Pinduoduo Inc.
+ASML Holding N.V.
+Advanced Micro Devices, Inc.
+Applied Materials, Inc.
+Regeneron Pharmaceuticals, Inc.
+Vertex Pharmaceuticals Incorporated
+Illumina, Inc.
+Moderna, Inc.
+Kraft Heinz Company
+Align Technology, Inc.
+DocuSign, Inc.
+Zoom Video Communications, Inc.
+Marvell Technology Group Ltd.
+Micron Technology, Inc.
+Liberty Broadband Corporation
+Liberty Global plc
+Liberty Media Corporation
+Liberty SiriusXM Group
+Liberty Interactive Corporation
+Dollar Tree, Inc.
+JD.com, Inc.
+Workday, Inc.
+Splunk Inc.
+Western Digital Corporation
+DexCom, Inc.
+Norwegian Cruise Line Holdings Ltd.

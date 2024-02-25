@@ -1,0 +1,381 @@
+[
+    {
+        "id": "001",
+        "classification": "Entertainment",
+        "filename": "pokemon.txt",
+        "prompt": "Pikachu\nCharmander\nSquirtle\nBulbasaur\nEevee\nJigglypuff\nSnorlax\nPsyduck\nMeowth\nGengar\nMewtwo\nMew\nCharizard\nBlastoise\nVenusaur\nLucario\nGreninja\nMimikyu\nGyarados\nDragonite\nMagikarp\nLapras\nDitto\nArcanine\nAlakazam"
+    },
+    {
+        "id": "002",
+        "classification": "Entertainment",
+        "filename": "youtubers.txt",
+        "prompt": "PewDiePie (Felix Kjellberg)\nDude Perfect (Coby Cotton, Cory Cotton, Garrett Hilbert, Cody Jones, and Tyler Toney)\nMrBeast (Jimmy Donaldson)\nMarkiplier (Mark Fischbach)\nDavid Dobrik\nJenna Marbles (Jenna Mourey)\nShane Dawson\nLiza Koshy\nCasey Neistat\nLilly Singh (Superwoman)\nRhett and Link (Rhett McLaughlin and Link Neal)\nJake Paul\nLogan Paul\nDanTDM (Daniel Middleton)\nVanossGaming (Evan Fong)\nSmosh (Ian Hecox and Anthony Padilla)\nJames Charles\nJacksepticeye (Seán McLoughlin)\nJeffree Star\nZoella (Zoe Sugg)\nRyan's World (Ryan Kaji)\nNinja (Tyler Blevins)\nGMM (Good Mythical Morning) (Rhett McLaughlin and Link Neal)\nEmma Chamberlain\nT-Series\nH3H3 Productions (Ethan and Hila Klein)\nKSI (Olajide \"JJ\" Olatunji)\nVsauce (Michael Stevens)\nMiranda Sings (Colleen Ballinger)\nThe Slow Mo Guys (Gavin Free and Daniel Gruchy)\nLinus Tech Tips (Linus Sebastian)\nMarques Brownlee (MKBHD)\nUnbox Therapy (Lewis Hilsenteger)\nCoffeezilla\nKitboga\nJim Browning\nScammer Payback"
+    },
+    {
+        "id": "003",
+        "classification": "Entertainment",
+        "filename": "brands.txt",
+        "prompt": "Apple\nGoogle\nCoca-Cola\nNike\nSamsung\nAmazon\nMicrosoft\nToyota\nMcDonald's\nMercedes-Benz\nBMW\nIntel\nFacebook\nDisney\nIBM\nVisa\nPepsi\nAdidas\nNetflix\nSony\nStarbucks\nLouis Vuitton\nHuawei\nChanel\nOracle\nPayPal\nNestlé\nZara\nAudi\nH&M\nL'Oréal\nCisco\nLego\neBay\nDell\nFord\nHonda\nMasterCard\nGillette\nIKEA\nSpotify\nRolex\nAdidas\nPuma\nGucci\nUnilever\nShell\nVolkswagen\nPhilips\nHeineken"
+    },
+    {
+        "id": "004",
+        "classification": "Entertainment",
+        "filename": "rockbands.txt",
+        "prompt": "The Beatles\nLed Zeppelin\nPink Floyd\nThe Rolling Stones\nQueen\nNirvana\nU2\nThe Who\nRed Hot Chili Peppers\nMetallica\nAerosmith\nGuns N' Roses\nAC/DC\nRadiohead\nGreen Day\nFoo Fighters\nPearl Jam\nThe Doors\nFleetwood Mac\nThe Eagles"
+    },
+    {
+        "id": "005",
+        "classification": "Entertainment",
+        "filename": "tv-shows.txt",
+        "prompt": "Breaking Bad\nGame of Thrones\nFriends\nThe Office (US)\nStranger Things\nThe Crown\nThe Simpsons\nSherlock\nBlack Mirror\nThe Sopranos\nMad Men\nThe Wire\nWestworld\nFleabag\nThe Mandalorian\nThe Handmaid's Tale\nBrooklyn Nine-Nine\nThe Marvelous Mrs. Maisel\nPeaky Blinders\nThe Big Bang Theory\nThe Crown\nSherlock\nDownton Abbey\nDoctor Who\nBlack Mirror\nThe Great British Bake Off\nPeaky Blinders\nFleabag\nThe Office (UK)\nBlackadder\nBroadchurch\nSkins\nLuther\nThe IT Crowd\nAbsolutely Fabulous\nFawlty Towers\nTop Gear\nFather Ted\nThe Inbetweeners\nLine of Duty\n"
+    },
+    {
+        "id": "006",
+        "classification": "Entertainment",
+        "filename": "popstars.txt",
+        "prompt": "Madonna\nMichael Jackson\nBeyoncé\nLady Gaga\nBritney Spears\nJustin Bieber\nTaylor Swift\nRihanna\nKaty Perry\nBruno Mars\nAriana Grande\nEd Sheeran\nBillie Eilish\nShawn Mendes\nSelena Gomez\nAdele\nJennifer Lopez\nPink\nChristina Aguilera\nJustin Timberlake\nElton John\nPrince\nWhitney Houston\nMariah Carey\nCeline Dion\nRobbie Williams\nKylie Minogue\nShakira\nJanet Jackson\nGwen Stefani\nMiley Cyrus\nDemi Lovato\nNicki Minaj\nLorde\nSam Smith\nCamila Cabello\nDua Lipa\nHalsey\nThe Weeknd\nHarry Styles"
+    },
+    {
+        "id": "007",
+        "classification": "Business",
+        "filename": "ftse.txt",
+        "prompt": "Royal Dutch Shell plc\nBP plc\nHSBC Holdings plc\nGlaxoSmithKline plc\nAstraZeneca plc\nDiageo plc\nUnilever plc\nRio Tinto plc\nBHP Group plc\nBritish American Tobacco plc\nLloyds Banking Group plc\nBarclays plc\nReckitt Benckiser Group plc\nBritish Land Company plc\nPrudential plc\nAviva plc\nStandard Chartered plc\nSSE plc\nImperial Brands plc\nNational Grid plc\nLegal & General Group plc\nGlencore plc\nSmith & Nephew plc\nFerguson plc\nExperian plc\nCRH plc\nIntertek Group plc\nDCC plc\nNext plc\nWPP plc\nRentokil Initial plc\nKingfisher plc\nMondi plc\nITV plc\nCroda International plc\nFlutter Entertainment plc\nCompass Group plc\nPolymetal International plc\nHargreaves Lansdown plc\nBerkeley Group Holdings plc"
+    },
+    {
+        "id": "008",
+        "classification": "Business",
+        "filename": "nyse.txt",
+        "prompt": "Apple Inc.\nMicrosoft Corporation\nAmazon.com Inc.\nAlphabet Inc.\nFacebook, Inc.\nBerkshire Hathaway Inc.\nJohnson & Johnson\nJPMorgan Chase & Co.\nVisa Inc.\nProcter & Gamble Company\nWalmart Inc.\nMastercard Incorporated\nUnitedHealth Group Incorporated\nBank of America Corporation\nWalt Disney Company\nAT&T Inc.\nPfizer Inc.\nCoca-Cola Company\nHome Depot, Inc.\nChevron Corporation\nVerizon Communications Inc.\nIntel Corporation\nCisco Systems, Inc.\nMerck & Co., Inc.\nIBM (International Business Machines) Corporation\nMcDonald's Corporation\nExxon Mobil Corporation\nCisco Systems, Inc.\nCaterpillar Inc.\n3M Company (Minnesota Mining and Manufacturing)\nHoneywell International Inc.\nGeneral Electric Company\nAmerican Express Company\nBoeing Company\nOracle Corporation\nNetflix Inc.\nPepsiCo, Inc.\nGoldman Sachs Group, Inc.\nJohnson Controls International plc\nDuPont de Nemours, Inc.\nAccenture plc\nGeneral Motors Company\nUnited Technologies Corporation\nBristol-Myers Squibb Company\nCostco Wholesale Corporation\nPayPal Holdings, Inc.\nLowe's Companies, Inc.\nThermo Fisher Scientific Inc.\nAbbVie Inc.\nFord Motor Company"
+    },
+    {
+        "id": "009",
+        "classification": "Business",
+        "filename": "nasdaq.txt",
+        "prompt": "Apple Inc.\nMicrosoft Corporation\nAmazon.com Inc.\nAlphabet Inc.\nFacebook, Inc.\nTesla, Inc.\nNvidia Corporation\nAdobe Inc.\nNetflix, Inc.\nIntel Corporation\nCisco Systems, Inc.\nComcast Corporation\nPepsiCo, Inc.\nStarbucks Corporation\nGilead Sciences, Inc.\nAmgen Inc.\nBiogen Inc.\nCostco Wholesale Corporation\nBooking Holdings Inc.\nPayPal Holdings, Inc.\nBroadcom Inc.\nQualcomm Incorporated\nBaidu, Inc.\nJD.com, Inc.\nPinduoduo Inc.\nASML Holding N.V.\nAdvanced Micro Devices, Inc.\nApplied Materials, Inc.\nRegeneron Pharmaceuticals, Inc.\nVertex Pharmaceuticals Incorporated\nIllumina, Inc.\nModerna, Inc.\nKraft Heinz Company\nAlign Technology, Inc.\nDocuSign, Inc.\nZoom Video Communications, Inc.\nMarvell Technology Group Ltd.\nMicron Technology, Inc.\nLiberty Broadband Corporation\nLiberty Global plc\nLiberty Media Corporation\nLiberty SiriusXM Group\nLiberty Interactive Corporation\nDollar Tree, Inc.\nJD.com, Inc.\nWorkday, Inc.\nSplunk Inc.\nWestern Digital Corporation\nDexCom, Inc.\nNorwegian Cruise Line Holdings Ltd."
+    },
+    {
+        "id": "010",
+        "classification": "Sport",
+        "filename": "nfl-players-current.txt",
+        "prompt": "Tom Brady\nAaron Rodgers\nPatrick Mahomes\nRussell Wilson\nLamar Jackson\nDrew Brees\nJ.J. Watt\nKhalil Mack\nAaron Donald\nOdell Beckham Jr.\nSaquon Barkley\nChristian McCaffrey\nJulio Jones\nDeAndre Hopkins\nEzekiel Elliott\nDerrick Henry\nAlvin Kamara\nTravis Kelce\nGeorge Kittle\nT.J. Watt\nDavante Adams\nTyreek Hill\nStefon Diggs\nDeshaun Watson\nJosh Allen\nJustin Herbert\nDak Prescott\nKyler Murray\nLamar Jackson\nJustin Jefferson"
+    },
+    {
+        "id": "011",
+        "classification": "Sport",
+        "filename": "ipl-teams.txt",
+        "prompt": "Chennai Super Kings\nMumbai Indians\nKolkata Knight Riders\nRoyal Challengers Bangalore\nSunrisers Hyderabad\nDelhi Capitals (formerly Delhi Daredevils)\nKings XI Punjab (now Punjab Kings)\nRajasthan Royals\nGujarat Lions\nRising Pune Supergiant\nDeccan Chargers\nPune Warriors India"
+    },
+    {
+        "id": "012",
+        "classification": "Sport",
+        "filename": "soccer-teams.txt",
+        "prompt": "Real Madrid\nFC Barcelona\nManchester United\nLiverpool FC\nManchester City\nChelsea FC\nArsenal FC\nJuventus FC\nAC Milan\nInter Milan\nParis Saint-Germain\nBayern Munich\nBorussia Dortmund\nAtletico Madrid\nTottenham Hotspur\nAjax Amsterdam\nFC Porto\nBenfica\nFC Porto\nAS Roma\nNapoli\nOlympique Lyonnais\nOlympique de Marseille\nFC Schalke 04\nValencia CF\nSevilla FC\nRB Leipzig\nRB Salzburg\nCeltic FC\nRangers FC"
+    },
+    {
+        "id": "013",
+        "classification": "Sport",
+        "filename": "nfl-teams.txt",
+        "prompt": "Arizona Cardinals\nAtlanta Falcons\nBaltimore Ravens\nBuffalo Bills\nCarolina Panthers\nChicago Bears\nCincinnati Bengals\nCleveland Browns\nDallas Cowboys\nDenver Broncos\nDetroit Lions\nGreen Bay Packers\nHouston Texans\nIndianapolis Colts\nJacksonville Jaguars\nKansas City Chiefs\nLas Vegas Raiders\nLos Angeles Chargers\nLos Angeles Rams\nMiami Dolphins\nMinnesota Vikings\nNew England Patriots\nNew Orleans Saints\nNew York Giants\nNew York Jets\nPhiladelphia Eagles\nPittsburgh Steelers\nSan Francisco 49ers\nSeattle Seahawks\nTampa Bay Buccaneers\nTennessee Titans\nWashington Commanders"
+    },
+    {
+        "id": "014",
+        "classification": "Sport",
+        "filename": "nfl-players-past.txt",
+        "prompt": "Jim Brown\nJoe Montana\nJerry Rice\nWalter Payton\nLawrence Taylor\nBarry Sanders\nEmmitt Smith\nJohnny Unitas\nReggie White\nBrett Favre\nDick Butkus\nDeion Sanders\nPeyton Manning\nDan Marino\nRonnie Lott\nRandy Moss\nJohn Elway\nDick \"Night Train\" Lane\nJim Thorpe\nGale Sayers"
+    },
+    {
+        "id": "015",
+        "classification": "Sport",
+        "filename": "sports-teams.txt",
+        "prompt": "New York Yankees\nManchester United\nLos Angeles Lakers\nReal Madrid\nNew England Patriots\nFC Barcelona\nGolden State Warriors\nBayern Munich\nDallas Cowboys\nLiverpool FC\nBoston Celtics\nJuventus\nChicago Bulls\nParis Saint-Germain\nToronto Maple Leafs\nAC Milan\nMumbai Indians\nGreen Bay Packers\nBoston Red Sox\nChelsea FC\nArsenal FC\nPhiladelphia Eagles\nSan Francisco 49ers\nAtlanta Braves\nBrooklyn Nets\nInter Milan\nSeattle Seahawks\nPittsburgh Steelers\nLos Angeles Dodgers\nToronto Raptors\nKansas City Chiefs\nBorussia Dortmund\nMiami Heat\nPhiladelphia 76ers\nHouston Astros\nTottenham Hotspur\nMilwaukee Bucks\nNew York Giants\nSt. Louis Cardinals\nNew York Knicks\nDenver Broncos\nAtletico Madrid\nChicago Cubs\nMinnesota Vikings\nLos Angeles Rams\nDetroit Red Wings\nCleveland Cavaliers\nWashington Redskins\nSSC Napoli\nBaltimore Ravens\nIndiana Pacers\nOakland Raiders\nNew York Mets\nCarolina Panthers\nChicago Blackhawks\nPortland Trail Blazers\nHouston Texans\nPhoenix Suns\nCincinnati Reds\nNew Orleans Saints"
+    },
+    {
+        "id": "016",
+        "classification": "Sport",
+        "filename": "sports-players.txt",
+        "prompt": "Cristiano Ronaldo\nLionel Messi\nLeBron James\nSerena Williams\nTom Brady\nMichael Jordan\nUsain Bolt\nRoger Federer\nMuhammad Ali\nTiger Woods\nMichael Phelps\nKobe Bryant\nRafael Nadal\nDiego Maradona\nWayne Gretzky\nPelé\nNovak Djokovic\nLewis Hamilton\nSteph Curry\nVirat Kohli"
+    },
+    {
+        "id": "017",
+        "classification": "Sport",
+        "filename": "college-football-teams.txt",
+        "prompt": "Alabama Crimson Tide\nOhio State Buckeyes\nClemson Tigers\nLSU Tigers\nGeorgia Bulldogs\nOklahoma Sooners\nNotre Dame Fighting Irish\nMichigan Wolverines\nTexas Longhorns\nFlorida Gators\nAuburn Tigers\nFlorida State Seminoles\nPenn State Nittany Lions\nOregon Ducks\nWisconsin Badgers\nMiami Hurricanes\nTexas A&M Aggies\nUSC Trojans (University of Southern California)\nNebraska Cornhuskers\nTennessee Volunteers\nMichigan State Spartans\nOklahoma State Cowboys\nWashington Huskies\nIowa Hawkeyes\nStanford Cardinal\nVirginia Tech Hokies\nNorth Carolina Tar Heels\nMississippi State Bulldogs\nBYU Cougars (Brigham Young University)\nIowa State Cyclones"
+    },
+    {
+        "id": "018",
+        "classification": "Sport",
+        "filename": "wwe-wrestlers.txt",
+        "prompt": "Hulk Hogan\nStone Cold Steve Austin\nDwayne \"The Rock\" Johnson\nJohn Cena\nRic Flair\nThe Undertaker\nMacho Man Randy Savage\nShawn Michaels\nTriple H\nBret \"The Hitman\" Hart\nAndre the Giant\nRowdy Roddy Piper\nNature Boy Buddy Rogers\nEddie Guerrero\nThe Heartbreak Kid Shawn Michaels\nThe Ultimate Warrior\nThe Million Dollar Man Ted DiBiase\nMr. Perfect Curt Hennig\nThe Nature Boy Ric Flair\nThe British Bulldog Davey Boy Smith\nThe Phenom The Undertaker\nThe Big Red Machine Kane\nThe Game Triple H\nThe Rated-R Superstar Edge\nThe Viper Randy Orton\nThe Animal Batista\nThe Celtic Warrior Sheamus\nThe Lunatic Fringe Dean Ambrose\nThe Architect Seth Rollins\nThe Swiss Superman Cesaros"
+    },
+    {
+        "id": "019",
+        "classification": "Language",
+        "filename": "japanese.txt",
+        "prompt": "「日本の春は桜の季節です。桜の花が満開になると、日本中がピンク色に染まります。お花見は日本の伝統で、家族や友達と一緒に桜の下でお弁当を食べたり、お酒を飲んだりします。夜になると、桜の木の下でライトアップが行われ、幻想的な雰囲気が漂います。\n日本の文化は古くからの伝統と新しいものが融合しています。古典的な着物を着ている人々が古い寺院や神社を訪れる一方で、若者たちは最新のテクノロジーを駆使して都会の中心で活動しています。そして、お正月やお盆などの伝統的な祭りは、今もなお大切にされています。\nまた、日本の食文化も豊かで多彩です。寿司や刺身、ラーメンなど、日本料理は世界中で愛されています。そして、お茶や日本酒などの飲み物も重要な役割を果たしています。\n日本の美しい自然や伝統的な建築物も国内外から多くの人々を魅了しています。古都京都や富士山、伝統的な茶室や庭園など、日本の風景は季節ごとに異なる魅力を持っています。\n日本は伝統とモダンが共存する国であり、その文化は世界中で称賛されています。」"
+    },
+    {
+        "id": "020",
+        "classification": "Language",
+        "filename": "french.txt",
+        "prompt": "La ville s'éveille lentement sous le doux baiser du soleil levant, comme si elle se préparait à une danse millénaire. Les rues pavées résonnent des pas pressés des Parisiens, qui se dirigent vers leurs cafés préférés pour savourer un café et un croissant. C'est le rituel sacré de la matinée, une tradition aussi vieille que la Tour Eiffel elle-même.\nDans ce tableau vivant, on peut sentir l'âme de Paris, cette ville envoûtante qui a inspiré tant d'artistes et d'écrivains au fil des siècles. Les façades des bâtiments racontent l'histoire tumultueuse de la ville, des jours glorieux de la Renaissance aux sombres heures de la Révolution. Chaque coin de rue révèle un trésor caché, un petit café pittoresque ou une librairie poussiéreuse où les mots des grands philosophes français prennent vie.\nEt puis, il y a la Seine, ce fleuve majestueux qui traverse la ville comme une veine pulsante. Sur ses rives, les amoureux se promènent main dans la main, s'arrêtant parfois pour admirer les reflets dorés du coucher de soleil sur les eaux calmes. C'est là que les poètes ont trouvé leur inspiration, écrivant des vers en l'honneur de la beauté éternelle de la ville lumière.\nParis est bien plus qu'une simple ville, c'est un état d'esprit, une passion qui brûle dans le cœur de ceux qui la découvrent. C'est la ville de l'amour, de la liberté et de la créativité, où chaque rue résonne des échos du passé et des promesses de l'avenir."
+    },
+    {
+        "id": "021",
+        "classification": "Language",
+        "filename": "maori.txt",
+        "prompt": "Ka hikina te rā ki runga i ngā maunga o Aotearoa, e whakakō au i te ao me te pō, e whakangungu ana i te whenua me te tangata. Ko te mauri o ngā tangata, o ngā wai o ngā awa, e wānanga ana i ngā kōrero tuku iho, ngā pūrākau o ō tātou tīpuna.\nI roto i ngā ngahere o Aotearoa, e tangi ana ngā manu, e koiora ana te whenua. Ko te karanga o te tūī, te mihi o te kererū, he waiata tēnei e whakatairanga ana i te wairua o te whenua me ngā mea tuku iho.\nKa hura te huarahi i te marae o te ao Māori. Ko te whakairo, ko te rāranga, he mea whakakāhore i ngā āhuatanga o te ao, he tohu o te mauri o te tangata me te whenua. Ko ngā haka, he whakaaturanga o te kaha o ngā tāngata ki te whakapau kaha, ki te whakapau tangata i roto i ngā wā e pōuri ana, e hari ana hoki.\nHeoi anō, ko te pae tawhiti, ko ngā maunga o Aotearoa, he kōrero e kōrerohia ana i ngā rā o mua, i ngā rā o nehe. Ko ngā whenua o ngā tūpuna, he wāhi whakanoa, he wāhi e wātea ana i te wairua me te hinengaro. Kei reira ngā tāngata e whakapau kaha ana i ō rātou ake reo, i ō rātou ake kōrero, e haka ana ki te ao, ki te pō, hei whakamana i te mauri o te ao Māori."
+    },
+    {
+        "id": "022",
+        "classification": "Language",
+        "filename": "cyrilic.txt",
+        "prompt": "В России зимой наступает время чудес. Снежные покровы укрывают старинные кремли и древние церкви, создавая волшебную атмосферу сказки. Дети радостно катаются с горок, а взрослые с удовольствием наслаждаются горячим чаем из самовара.\nОднако Россия славится не только зимними пейзажами. Весной зацветают луга и поля, а воздух наполняется ароматом первоцветов. Праздник Масленицы приносит радость и веселье, а Пасха напоминает о древних традициях и религиозных обычаях.\nКультура России богата и многообразна. Русская литература прославилась произведениями великих писателей, таких как Пушкин, Толстой и Достоевский. Русская музыка вдохновляет своими мелодиями и гармонией, а балет – это великолепное искусство, которое завоевало признание во всем мире.\nСибирь, Урал и Кавказ – эти регионы обладают своей уникальной культурой и традициями. Народы России гордятся своим наследием и хранят его поколениями.\nТаким образом, Россия – это страна, где величие прошлого переплетается с современностью, а культура и традиции остаются важными частями национальной идентичности"
+    },
+    {
+        "id": "023",
+        "classification": "Language",
+        "filename": "welsh.txt",
+        "prompt": "Yn ystod y bore, mae'r cymoedd Cymru yn codi o dan gysgod y cymylau, gan gael eu bathu mewn golau yr haul fel ymdaith fawreddog dros y tirwedd. Yn y pentrefi, mae'r hufen ia yn paratoi ar gyfer ymwelwyr, gan eu croesawu gyda chroeso cynnes Cymreig ac wedi'u hysbrydoli gan yr hen ddiwylliant Cymreig.\nMae'r iaith Gymraeg yn fyw ac yn iach, yn cerdded ochr yn ochr â'r iaith Saesneg, gan gynnal treftadaeth hanesyddol hir a phrofiad o harddwch naturiol Cymru. Mae'r heniaith yn glust i'r enaid, gan ddweud straeon yr hen a'r newydd, gan gryfhau'r cysylltiad rhwng ein dyfodol a'n gorffennol.\nYn y canol dinasoedd, mae'r hen adeiladau cerrig yn cofnodi hanes y wlad, gan gofio'r teithiau tramor, y frwydr dros ryddid, ac ennill hawliau. Ar bob cam, mae cestyll a chloddiau'n atgoffa pobl o'r gorffennol gogoneddus, gan anelu at y dyfodol gyda balchder Cymreig.\nOnd nid dim ond hanes a threftadaeth sy'n nodweddio Cymru; mae'r celfyddydau, y llenyddiaeth, a'r dawnsio hefyd yn rhan annatod o'n diwylliant. Mae'r storiâu barddonol yn canolbwyntio ar hanes y wlad, tra bod y dawnsio traddodiadol yn dal i fyw fel rhan greiddiol o'r profiad Cymreig heddiw.\nFelly, mae Cymru yn amrywio, yn cymysgu'r hyn a fu gyda'r hyn sy'n dod. Mae'n dir llawn hud a lledrith, gydag atgofion o'r gorffennol yn cyfuno â gobaith ar gyfer y dyfodol. Yn ei holl ore, mae'n enaid genedlaethol yn ymddangos, gan addurno pob cwr o'r wlad gyda'i hanes unigryw."
+    },
+    {
+        "id": "024",
+        "classification": "Language",
+        "filename": "spanish.txt",
+        "prompt": "El sol se eleva sobre las estrechas calles empedradas de Sevilla, bañando la ciudad en una luz dorada que parece acariciar sus monumentos centenarios. Los naranjos en flor perfuman el aire, mientras los sevillanos se preparan para otro día de pasión y tradición en esta tierra de flamenco y toros.\nEn cada esquina, se respira historia. La Giralda se alza imponente, testigo silencioso de los siglos de esplendor de la ciudad. A su sombra, la Plaza de España despierta a la vida, con sus azulejos brillantes y sus bancos de cerámica donde los visitantes descansan después de explorar los laberínticos callejones del barrio de Santa Cruz.\nPero Sevilla no es solo historia, es también alegría y celebración. En primavera, la ciudad se viste de gala para la Feria de Abril, una fiesta desbordante de color y música donde se dan cita los mejores caballos, trajes de volantes y sevillanas. Es un espectáculo que deja sin aliento, una muestra del espíritu vibrante de esta tierra andaluza.\nY luego está la comida, una parte fundamental de la cultura sevillana. Los bares de tapas rebosan de vida, con platos de jamón ibérico, tortilla española y gambas al ajillo que hacen las delicias de los paladares más exigentes. Es aquí, entre risas y conversaciones animadas, donde se forjan los lazos de amistad que perdurarán toda la vida.\nAsí es Sevilla, una ciudad de contrastes donde el pasado y el presente se entrelazan en un baile eterno. Es un lugar donde la pasión lo impregna todo, desde el arte hasta la comida, desde la música hasta la gente misma. En Sevilla, cada día es una fiesta y cada momento una oportunidad para descubrir la magia de esta tierra única."
+    },
+    {
+        "id": "025",
+        "classification": "Books",
+        "filename": "famous-books.txt",
+        "prompt": "To Kill a Mockingbird\n1984\nPride and Prejudice\nThe Great Gatsby\nThe Catcher in the Rye\nThe Lord of the Rings\nThe Hobbit\nHarry Potter and the Philosopher's Stone\nMoby-Dick\nJane Eyre\nWuthering Heights\nFrankenstein\nBrave New World\nThe Odyssey\nThe Iliad\nDon Quixote\nCrime and Punishment\nThe Brothers Karamazov\nThe Picture of Dorian Gray\nGone with the Wind\nAnna Karenina\nOne Hundred Years of Solitude\nThe Chronicles of Narnia\nThe Adventures of Huckleberry Finn\nAlice's Adventures in Wonderland\nThe War of the Worlds\nDracula\nThe Count of Monte Cristo\nThe Grapes of Wrath\nLes Misérables\nThe Divine Comedy\nWar and Peace\nThe Canterbury Tales\nThe Scarlet Letter\nUlysses\nThe Bell Jar\nThe Grapes of Wrath\nFahrenheit 451\nAnimal Farm\nThe Adventures of Sherlock Holmes\nA Tale of Two Cities\nGreat Expectations\nThe Outsiders\nSlaughterhouse-Five\nThe Hitchhiker's Guide to the Galaxy\nThe Old Man and the Sea\nOf Mice and Men\nThe Sun Also Rises\nCatch-22\nLord of the Flies\nLittle Women\nThe Handmaid's Tale\nThe Road\nBeloved\nA Clockwork Orange\nMoby-Dick\nA Song of Ice and Fire series (Game of Thrones)\nThe Name of the Wind\nThe Kite Runner\nThe Book Thief"
+    },
+    {
+        "id": "026",
+        "classification": "Books",
+        "filename": "harrypotter-characters.txt",
+        "prompt": "Harry Potter\nHermione Granger\nRon Weasley\nAlbus Dumbledore\nSeverus Snape\nLord Voldemort (Tom Riddle)\nSirius Black\nRemus Lupin\nGinny Weasley\nDraco Malfoy\nNeville Longbottom\nLuna Lovegood\nRubeus Hagrid\nMinerva McGonagall\nFred Weasley\nGeorge Weasley\nAlastor \"Mad-Eye\" Moody\nDolores Umbridge\nBellatrix Lestrange\nDobby\nProfessor Quirrell\nGilderoy Lockhart\nTom Marvolo Riddle (Young Voldemort)\nArgus Filch\nNymphadora Tonks\nCedric Diggory\nFleur Delacour\nViktor Krum\nHorace Slughorn\nKreachers"
+    },
+    {
+        "id": "027",
+        "classification": "Books",
+        "filename": "shakespeare-characters.txt",
+        "prompt": "Romeo\nJuliet\nHamlet\nOthello\nDesdemona\nMacbeth\nLady Macbeth\nKing Lear\nCordelia\nProspero\nMiranda\nOberon\nTitania\nPuck (Robin Goodfellow)\nPortia\nShylock\nViola\nOlivia\nPetruchio\nKatherine (Kate)\nIago\nFalstaff\nBeatrice\nBenedick\nRosalind\nOrlando\nMercutio\nAntony\nCleopatra\nPortia"
+    },
+    {
+        "id": "028",
+        "classification": "Books",
+        "filename": "shakespeare-books.txt",
+        "prompt": "A Midsummer Night's Dream\nAll's Well That Ends Well\nAntony and Cleopatra\nAs You Like It\nCoriolanus\nCymbeline\nHamlet\nHenry IV, Part 1\nHenry IV, Part 2\nHenry V\nHenry VI, Part 1\nHenry VI, Part 2\nHenry VI, Part 3\nHenry VIII\nJulius Caesar\nKing John\nKing Lear\nLove's Labour's Lost\nMacbeth\nMeasure for Measure\nMuch Ado About Nothing\nOthello\nPericles, Prince of Tyre\nRichard II\nRichard III\nRomeo and Juliet\nThe Comedy of Errors\nThe Merchant of Venice\nThe Merry Wives of Windsor\nThe Taming of the Shrew\nThe Tempest\nThe Two Gentlemen of Verona\nThe Winter's Tale\nTimon of Athens\nTitus Andronicus\nTroilus and Cressida\nTwelfth Night"
+    },
+    {
+        "id": "029",
+        "classification": "Math",
+        "filename": "simple-math.py",
+        "prompt": "25*2+7*4*7?"
+    },
+    {
+        "id": "030",
+        "classification": "Programming",
+        "filename": "linval.ts",
+        "prompt": "import { urlencoded } from \"body-parser\";\nimport express from \"express\";\nimport { createCanvas } from \"canvas\";\nconst sleep = (ms:number) => new Promise(resolve => setTimeout(resolve, ms));\n\n/// draws the text to the png\nfunction draw(text: string) {\n  // setup\n  const canvas = createCanvas(300, 150);\n  const ctx = canvas.getContext(\"2d\");\n\n  ctx.font = '30px Hack';\n  ctx.fillStyle = \"blue\";\n  ctx.rotate(0.1);\n  ctx.fillText(text, 50, 75);\n\n  return canvas;\n}\n\n// export the create server function\n// http://localhost:3000/text2png?text=chrishayuk&sleep=2000\nexport const createServer = () => {\n  const app = express();\n  app\n    //.use(urlencoded({ extended: true }))\n    .get(\"/\", (req, res) => {\n      res.setHeader('Content-Type', 'text/plain');\n      return res.send(\"hello, i'm Linval, i'm a very slow but happy image server\");\n    })\n    .get(\"/text2png\", async (req, res) => {\n      // set the header\n      res.setHeader('Content-Type', 'image/png');\n\n      // set the text\n      let text = '@chrishayuk';\n\n      // check if we should sleep\n      if (req.query.sleep)\n        await sleep(parseInt(req.query.sleep as string));\n\n      // accept text as a parameter\n      if (req.query.text)\n        text = req.query.text as string;\n\n      // draw the canvas and pipe back\n      draw(text).pngStream().pipe(res);\n    })\n\n  return app;\n};",
+        "subclassification": "TypeScript"
+    },
+    {
+        "id": "031",
+        "classification": "Programming",
+        "filename": "asciitime.ts",
+        "prompt": "import { TimeBot } from './TimeBot';\nimport { NlpManager } from 'node-nlp';\nimport { BotConfig } from './BotConfig';\n\nexport class AsciiTimeBot extends TimeBot {\n    constructor(botConfig: BotConfig, nlpManager: NlpManager) {\n        super(botConfig, nlpManager);\n    }\n\n    protected handleIntent(intent: string, senderId: string, message: string): void {\n        if (intent === \"time.check\") {\n            const timezone = this.settings.timezone || 'UTC';\n            const currentTime = new Date().toLocaleTimeString('en-GB', { timeZone: timezone, hour12: false });\n\n            // Debug: Check the format of the time\n            //console.log(`Current Time: ${currentTime}`);\n\n            const asciiTime = this.convertTimeToAscii(currentTime);\n            this.sendMessage(`@${senderId} The current time in ASCII art:Line 1\\nLine 2\"`);\n            console.log(asciiTime);\n        } else {\n            console.log(\"Received non-time check message.\");\n        }\n    }\n\n    private convertTimeToAscii(time: string): string {\n        const asciiDigits = {\n            '0': [' 000 ', '0   0', '0   0', '0   0', ' 000 '],\n            '1': ['  1  ', ' 11  ', '  1  ', '  1  ', ' 111 '],\n            '2': [' 222 ', '2   2', '  2  ', ' 2   ', '22222'],\n            '3': ['3333 ', '    3', ' 333 ', '    3', '3333 '],\n            '4': ['4  4 ', '4  4 ', '44444', '   4 ', '   4 '],\n            '5': ['55555', '5    ', '5555 ', '    5', '5555 '],\n            '6': [' 666 ', '6    ', '6666 ', '6   6', ' 666 '],\n            '7': ['77777', '   7 ', '  7  ', ' 7   ', '7    '],\n            '8': [' 888 ', '8   8', ' 888 ', '8   8', ' 888 '],\n            '9': [' 999 ', '9   9', ' 9999', '    9', ' 999 '],\n            ':': ['     ', '  *  ', '     ', '  *  ', '     ']\n        };\n        \n\n        let asciiTime = '';\n        for (let i = 0; i < 5; i++) {\n            let line = '';\n            for (const char of time) {\n                if (asciiDigits[char]) {\n                    line += asciiDigits[char][i] + '  ';\n                } else {\n                    line += '     '; // For unsupported characters, add spaces\n                }\n            }\n            asciiTime += line + '\\n';\n\n            // Additional Debugging\n            //console.log(line);\n        }\n\n        return asciiTime;\n    }\n}",
+        "subclassification": "TypeScript"
+    },
+    {
+        "id": "032",
+        "classification": "Programming",
+        "filename": "unixtime.ts",
+        "prompt": "import { BaseBot } from '../BaseBot';\nimport { NlpManager } from 'node-nlp';\nimport { BotConfig } from '../BotConfig';\n\nexport class UnixTimeBot extends BaseBot {\n    // constructor\n    constructor(botConfig: BotConfig, nlpManager: NlpManager) {\n        // call base class\n        super(botConfig.name, botConfig.type, botConfig.description, botConfig.settings, nlpManager, botConfig.welcomeMessage);\n    }\n\n    // handle the intent\n    protected handleIntent(intent: string, senderId: string, message: string): void {\n        // looks for a time check\n        if (intent === \"unix.time.check\" || intent === \"time.check\") {\n            // get the current unix time\n            const unixTime = Math.floor(Date.now() / 1000);\n\n            // send the current time to the sender\n            this.sendMessage(`@${senderId} The current Unix time is: ${unixTime}`);\n        } else {\n            console.log(\"Received non-unix time check message.\");\n        }\n    }\n}",
+        "subclassification": "TypeScript"
+    },
+    {
+        "id": "033",
+        "classification": "Programming",
+        "filename": "guess.rs",
+        "prompt": "use rand::Rng; // Rng trait defines methods that random number generators implement\nuse std::cmp::Ordering; // For comparing the guess to the secret number\nuse std::io; // For input/output operations\n\nfn main() {\n    println!(\"Guess the number!\");\n\n    // Generate a random number between 1 and 100\n    let secret_number = rand::thread_rng().gen_range(1..=100);\n\n    loop {\n        println!(\"Please input your guess.\");\n\n        let mut guess = String::new();\n\n        // Read the user's guess from standard input\n        io::stdin()\n            .read_line(&mut guess)\n            .expect(\"Failed to read line\");\n\n        // Convert the string to a number\n        let guess: u32 = match guess.trim().parse() {\n            Ok(num) => num,\n            Err(_) => {\n                println!(\"Please type a number!\");\n                continue;\n            },\n        };\n\n        // Compare the guess to the secret number\n        match guess.cmp(&secret_number) {\n            Ordering::Less => println!(\"Too small!\"),\n            Ordering::Greater => println!(\"Too big!\"),\n            Ordering::Equal => {\n                println!(\"You win!\");\n                break; // Exit the loop if the guess is correct\n            },\n        }\n    }\n}\n",
+        "subclassification": "Rust"
+    },
+    {
+        "id": "034",
+        "classification": "Programming",
+        "filename": "hello.rs",
+        "prompt": "fn main() {    \n    println!(\"Hello, World!\");\n}",
+        "subclassification": "Rust"
+    },
+    {
+        "id": "035",
+        "classification": "Programming",
+        "filename": "demonstrator.rs",
+        "prompt": "fn main() {\n    let numbers = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100];\n    let average = calculate_average(&numbers);\n    println!(\"Average: {:.2}\", average);\n\n    let (min, max) = find_min_and_max(&numbers);\n    println!(\"Minimum: {}\", min);\n    println!(\"Maximum: {}\", max);\n}\n\nfn calculate_average(numbers: &[i32]) -> f64 {\n    let sum: i32 = numbers.iter().sum();\n    sum as f64 / numbers.len() as f64\n}\n\nfn find_min_and_max(numbers: &[i32]) -> (i32, i32) {\n    let min = *numbers.iter().min().expect(\"Array cannot be empty\");\n    let max = *numbers.iter().max().expect(\"Array cannot be empty\");\n    (min, max)\n}\n",
+        "subclassification": "Rust"
+    },
+    {
+        "id": "036",
+        "classification": "Programming",
+        "filename": "karin.rs",
+        "prompt": "use tokio::net::{TcpListener, TcpStream};\nuse tokio::io::{AsyncWriteExt,AsyncReadExt};\nuse std::str::FromStr;\nuse uuid::Uuid;\n\n// constants\nconst KARIN_SERVER_ADDRESS: &str = \"127.0.0.1:8001\";\nconst SIROCCO_SERVER_ADDRESS: &str = \"127.0.0.1:8000\";\n\n#[tokio::main]\nasync fn main() {\n    // starting\n    println!(\"karin starting {}\", KARIN_SERVER_ADDRESS);\n    \n    // bind\n    let listener = TcpListener::bind(KARIN_SERVER_ADDRESS).await.unwrap();\n\n    // starting\n    println!(\"karin listening {}\", KARIN_SERVER_ADDRESS);\n\n    // loop through incoming connections\n    loop {\n        // accept the connection\n        let (socket, _) = listener.accept().await.unwrap();\n\n        tokio::spawn(async move {\n            handle_connection(socket).await;\n        });\n    }\n}\n\nasync fn handle_connection(mut stream: TcpStream) {\n    // create uuid\n    let id = Uuid::new_v4();\n\n    // create the buffer\n    let mut buffer = [0; 1024];\n\n    // read the stream\n    let len = stream.read(&mut buffer).await.unwrap();\n\n    // output the request\n    let message = String::from_utf8_lossy(&buffer[..len]);\n    println!(\"{} - received: {}\", id, message);\n\n    // call sirocco\n    let sirocco_message = call_sirocco(id, message.to_owned().to_string()).await;\n    let output = format!(\"sirocco says: {}\", sirocco_message);\n\n    // send out message\n    let _ = stream.write_all(output.as_bytes()).await;\n    println!(\"{} - sent: {}\", id, message);\n}\n\nasync fn call_sirocco(id:Uuid, message: String) -> String {\n    // connecting\n    println!(\"{} - connecting to sirocco: {}\",id, SIROCCO_SERVER_ADDRESS);\n\n    // connected\n    if let Ok(mut stream) = TcpStream::connect(SIROCCO_SERVER_ADDRESS).await {\n        // connected message\n        println!(\n            \"{} - connected to sirocco: {}:{}\",\n            id,\n            stream.local_addr().unwrap().ip(),\n            stream.local_addr().unwrap().port()\n        );\n\n        // set our message as hello world\n        let _ = stream.write_all(message.as_bytes()).await;\n        println!(\"{} - sent: {}\", id, message);\n \n        // read the result\n        let mut buffer = [0; 1024];\n        let len = stream.read(&mut buffer).await.unwrap();\n        let message = String::from_utf8_lossy(&buffer[..len]); \n        println!(\"{} - received from sirocco: {}\", id, message);\n\n        // return the message\n        return message.to_owned().to_string();\n    } else {\n        println!(\n            \"{} - couldn't connect to sirocco: {}\",\n            id,\n            SIROCCO_SERVER_ADDRESS\n        );\n\n        // sirocco is not available\n        return String::from_str(\"sirocco is not available\").unwrap();\n    }\n}",
+        "subclassification": "Rust"
+    },
+    {
+        "id": "037",
+        "classification": "Programming",
+        "filename": "timebot.rs",
+        "prompt": "use futures_util::{StreamExt, SinkExt, stream::{SplitSink, SplitStream}};\nuse tokio::io::{AsyncRead, AsyncWrite};\nuse tokio::io::{self, AsyncBufReadExt};\nuse tokio_tungstenite::{connect_async, tungstenite::Message, WebSocketStream};\n\nasync fn register_bot(write: &mut SplitSink<WebSocketStream<impl AsyncRead + AsyncWrite + Unpin>, Message>, bot_name: &str) {\n    let registration_message = Message::Text(format!(\"register as {}\", bot_name));\n    write.send(registration_message).await.expect(\"Failed to send registration message\");\n}\n\nasync fn handle_incoming_messages(mut read: SplitStream<WebSocketStream<impl AsyncRead + AsyncWrite + Unpin>>) {\n    while let Some(message) = read.next().await {\n        match message {\n            Ok(msg) => println!(\"Received a message: {}\", msg),\n            Err(e) => eprintln!(\"Error receiving message: {}\", e),\n        }\n    }\n}\n\nasync fn read_and_send_messages(mut write: SplitSink<WebSocketStream<impl AsyncRead + AsyncWrite + Unpin>, Message>) {\n    let mut reader = io::BufReader::new(io::stdin()).lines();\n    while let Some(line) = reader.next_line().await.expect(\"Failed to read line\") {\n        if !line.trim().is_empty() {\n            write.send(Message::Text(line)).await.expect(\"Failed to send message\");\n        }\n    }\n}\n\n\n#[tokio::main]\nasync fn main() {\n    let url = \"ws://localhost:3000\";\n\n    println!(\"Connecting to - {}\", url);\n    let (ws_stream, _) = connect_async(url).await.expect(\"Failed to connect\");\n    println!(\"Connected to Agent Network\");\n\n    let (mut write, mut read) = ws_stream.split();\n\n    // register the timebot\n    register_bot(&mut write, \"RustClient\").await;\n\n    // Handle incoming messages in a separate task\n    let read_handle = tokio::spawn(handle_incoming_messages(read));\n\n    // Read from command line and send messages\n    let write_handle = tokio::spawn(read_and_send_messages(write));\n\n    // Await both tasks (optional, depending on your use case)\n    let _ = tokio::try_join!(read_handle, write_handle);\n}",
+        "subclassification": "Rust"
+    },
+    {
+        "id": "038",
+        "classification": "Programming",
+        "filename": "demonstrator.bas",
+        "prompt": "10 PRINT \"Welcome to the BASIC Demonstrator Program\"\n20 PRINT \"Select an option:\"\n30 PRINT \"1 - Addition\"\n40 PRINT \"2 - Subtraction\"\n50 PRINT \"3 - Multiplication\"\n60 PRINT \"4 - Division\"\n70 PRINT \"5 - Draw a Square\"\n80 PRINT \"6 - Exit\"\n90 INPUT \"Enter your choice (1-6): \", CHOICE\n\n100 IF CHOICE = 1 THEN GOTO 200\n110 IF CHOICE = 2 THEN GOTO 300\n120 IF CHOICE = 3 THEN GOTO 400\n130 IF CHOICE = 4 THEN GOTO 500\n140 IF CHOICE = 5 THEN GOTO 600\n150 IF CHOICE = 6 THEN GOTO 700\n\n160 PRINT \"Invalid choice, please select 1-6\"\n170 GOTO 20\n\n' Addition\n200 INPUT \"Enter first number: \", A\n210 INPUT \"Enter second number: \", B\n220 C = A + B\n230 PRINT \"Result: \"; A; \" + \"; B; \" = \"; C\n240 GOTO 20\n\n' Subtraction\n300 INPUT \"Enter first number: \", A\n310 INPUT \"Enter second number: \", B\n320 C = A - B\n330 PRINT \"Result: \"; A; \" - \"; B; \" = \"; C\n340 GOTO 20\n\n' Multiplication\n400 INPUT \"Enter first number: \", A\n410 INPUT \"Enter second number: \", B\n420 C = A * B\n430 PRINT \"Result: \"; A; \" * \"; B; \" = \"; C\n440 GOTO 20\n\n' Division\n500 INPUT \"Enter first number: \", A\n510 INPUT \"Enter second number: \", B\n520 IF B = 0 THEN PRINT \"Cannot divide by zero\": GOTO 500\n530 C = A / B\n540 PRINT \"Result: \"; A; \" / \"; B; \" = \"; C\n550 GOTO 20\n\n' Draw a Square\n600 CLS ' Clear the screen\n610 FOR I = 100 TO 200 STEP 10\n620 LINE (I,100)-(I,200)\n630 LINE (100,I)-(200,I)\n640 NEXT I\n650 PRINT \"Press any key to return to menu\"\n660 GETKEY$ ' Wait for a key press\n670 CLS ' Clear the screen\n680 GOTO 20\n\n' Exit\n700 PRINT \"Thank you for using the BASIC Demonstrator Program\"\n710 END",
+        "subclassification": "BASIC"
+    },
+    {
+        "id": "039",
+        "classification": "Programming",
+        "filename": "guess.bas",
+        "prompt": "10 PRINT \"Guess the Number Game\"\n20 PRINT \"I'm thinking of a number between 1 and 100.\"\n\n30 RANDOMIZE TIMER\n40 SECRET = INT(RND * 100) + 1\n\n50 PRINT \"Enter your guess:\"\n60 INPUT GUESS\n\n70 IF GUESS < SECRET THEN PRINT \"Too low, try again.\": GOTO 50\n80 IF GUESS > SECRET THEN PRINT \"Too high, try again.\": GOTO 50\n90 IF GUESS = SECRET THEN PRINT \"Congratulations! You guessed it!\": END\n\n100 PRINT \"Do you want to play again (Y/N)?\"\n110 INPUT ANSWER$\n120 IF UPPER$(ANSWER$) = \"Y\" THEN GOTO 20\n130 PRINT \"Thank you for playing!\"\n140 END",
+        "subclassification": "BASIC"
+    },
+    {
+        "id": "040",
+        "classification": "Programming",
+        "filename": "hello.c",
+        "prompt": "#include <stdio.h>\n\n/*\nThis is a header comment for the main file\n*/\nint main()\n{\n    // single line comment that prints out hello world\n    printf(\"Hello, World!\");\n\n    // returns 0\n    return 0;\n}",
+        "subclassification": "C"
+    },
+    {
+        "id": "041",
+        "classification": "Programming",
+        "filename": "square.c",
+        "prompt": "#include <stdio.h>\n\nint main() {\n    int number, square;\n\n    // Prompt the user for input\n    printf(\"Enter an integer: \");\n    \n    // Read an integer from the user\n    scanf(\"%d\", &number);\n\n    // Calculate the square of the number\n    square = number * number;\n\n    // Print the result\n    printf(\"The square of %d is %d.\\n\", number, square);\n\n    return 0;\n}\n",
+        "subclassification": "C"
+    },
+    {
+        "id": "042",
+        "classification": "Programming",
+        "filename": "demonstrator.c",
+        "prompt": "#include <stdio.h>\n\n#define SIZE 10 // Define the size of the array\n\n// Function prototypes\ndouble calculateAverage(int arr[], int size);\nvoid findMinAndMax(int arr[], int size, int *min, int *max);\n\nint main() {\n    int numbers[SIZE] = {10, 20, 30, 40, 50, 60, 70, 80, 90, 100};\n    double average;\n    int min, max;\n\n    // Calculate the average of the array\n    average = calculateAverage(numbers, SIZE);\n    printf(\"Average: %.2f\\n\", average);\n\n    // Find the minimum and maximum values in the array\n    findMinAndMax(numbers, SIZE, &min, &max);\n    printf(\"Minimum: %d\\n\", min);\n    printf(\"Maximum: %d\\n\", max);\n\n    return 0;\n}\n\n// Function to calculate the average of an array\ndouble calculateAverage(int arr[], int size) {\n    int sum = 0;\n    for (int i = 0; i < size; i++) {\n        sum += arr[i];\n    }\n    return (double)sum / size;\n}\n\n// Function to find the minimum and maximum values in an array\nvoid findMinAndMax(int arr[], int size, int *min, int *max) {\n    *min = *max = arr[0]; // Initialize min and max with the first element of the array\n    for (int i = 1; i < size; i++) {\n        if (arr[i] < *min) {\n            *min = arr[i]; // Update min if the current element is smaller\n        }\n        if (arr[i] > *max) {\n            *max = arr[i]; // Update max if the current element is larger\n        }\n    }\n}",
+        "subclassification": "C"
+    },
+    {
+        "id": "043",
+        "classification": "History",
+        "filename": "historical-figures.txt",
+        "prompt": "Julius Caesar\nCleopatra\nAlexander the Great\nGenghis Khan\nJoan of Arc\nLeonardo da Vinci\nWilliam Shakespeare\nQueen Elizabeth I\nGalileo Galilei\nIsaac Newton\nNapoleon Bonaparte\nAbraham Lincoln\nQueen Victoria\nMahatma Gandhi\nWinston Churchill\nMartin Luther King Jr.\nNelson Mandela\nMarie Curie\nAlbert Einstein\nRosa Parks\nChristopher Columbus\nMichelangelo\nThomas Edison\nGeorge Washington\nElizabeth Cady Stanton\nSocrates\nBuddha\nConfucius\nEmperor Qin Shi Huang\nEmperor Augustuss"
+    },
+    {
+        "id": "044",
+        "classification": "History",
+        "filename": "american-presidents.txt",
+        "prompt": "George Washington\nJohn Adams\nThomas Jefferson\nJames Madison\nJames Monroe\nJohn Quincy Adams\nAndrew Jackson\nMartin Van Buren\nWilliam Henry Harrison\nJohn Tyler\nJames K. Polk\nZachary Taylor\nMillard Fillmore\nFranklin Pierce\nJames Buchanan\nAbraham Lincoln\nAndrew Johnson\nUlysses S. Grant\nRutherford B. Hayes\nJames A. Garfield\nChester A. Arthur\nGrover Cleveland\nBenjamin Harrison\nGrover Cleveland\nWilliam McKinley\nTheodore Roosevelt\nWilliam Howard Taft\nWoodrow Wilson\nWarren G. Harding\nCalvin Coolidge\nHerbert Hoover\nFranklin D. Roosevelt\nHarry S. Truman\nDwight D. Eisenhower\nJohn F. Kennedy\nLyndon B. Johnson\nRichard Nixon\nGerald Ford\nJimmy Carter\nRonald Reagan\nGeorge H. W. Bush\nBill Clinton\nGeorge W. Bush\nBarack Obama\nDonald Trump\nJoe Biden"
+    },
+    {
+        "id": "045",
+        "classification": "Movies",
+        "filename": "hollywood-stars.txt",
+        "prompt": "Meryl Streep\nRobert De Niro\nJulia Roberts\nTom Hanks\nDenzel Washington\nSandra Bullock\nLeonardo DiCaprio\nAngelina Jolie\nBrad Pitt\nMorgan Freeman\nCate Blanchett\nGeorge Clooney\nNicole Kidman\nJohnny Depp\nCharlize Theron\nWill Smith\nScarlett Johansson\nTom Cruise\nJennifer Lawrence\nHarrison Ford\nNatalie Portman\nJack Nicholson\nAnne Hathaway\nDaniel Day-Lewis\nEmma Stone\nChristian Bale\nReese Witherspoon\nMatthew McConaughey\nKate Winslet\nJoaquin Phoenix"
+    },
+    {
+        "id": "046",
+        "classification": "Movies",
+        "filename": "hollywood-movies.txt",
+        "prompt": "The Godfather\nCasablanca\nTitanic\nSchindler's List\nStar Wars: A New Hope\nThe Shawshank Redemption\nThe Wizard of Oz\nCitizen Kane\nGone with the Wind\nPulp Fiction\nForrest Gump\nThe Silence of the Lambs\nThe Lord of the Rings: The Fellowship of the Ring\nThe Matrix\nJurassic Park\nJaws\nE.T. the Extra-Terrestrial\nThe Dark Knight\nRaiders of the Lost Ark\nSaving Private Ryan\nAvatar\nGladiator\nThe Sound of Music\nBack to the Future\nBraveheart\nThe Terminator\nRocky\nThe Lion King\nToy Story\nInception\nThe Avengers\nThe Shawshank Redemption\nFight Club\nGoodfellas\nThe Usual Suspects\nThe Departed\nThe Green Mile\nSchindler's List\nThe Pianist\nSe7en\nThe Sixth Sense\nThe Shining\nA Clockwork Orange\n2001: A Space Odyssey\nBlade Runner\nThe Social Network\nTitanic\nBraveheart\nGladiator\nThe Gladiator\nThe Truman Show\nThe Great Gatsby\nDjango Unchained\nThe King's Speech\nThe Grand Budapest Hotel\nThe Revenant\nInglourious Basterds\nThe Big Lebowski\nThe Graduate\nRaging Bull"
+    },
+    {
+        "id": "047",
+        "classification": "Movies",
+        "filename": "movie-stars.txt",
+        "prompt": "Denzel Washington\nMeryl Streep\nShah Rukh Khan\nNicole Kidman\nJackie Chan\nPenélope Cruz\nIdris Elba\nCate Blanchett\nRajinikanth\nSalma Hayek\nDaniel Day-Lewis\nGong Li\nLeonardo DiCaprio\nAudrey Tautou\nOmar Sy\nCharlize Theron\nTakeshi Kitano\nKate Winslet\nJavier Bardem\nLupita Nyong'o\nTony Leung Chiu-wai\nViola Davis\nTilda Swinton\nGael García Bernal\nSridevi\nMarion Cotillard\nJoaquin Phoenix\nAishwarya Rai Bachchan\nSong Kang-ho\nThandie Newton"
+    },
+    {
+        "id": "048",
+        "classification": "Movies",
+        "filename": "disney-characters.txt",
+        "prompt": "Mickey Mouse\nMinnie Mouse\nDonald Duck\nGoofy\nPluto\nDaisy Duck\nCinderella\nBelle\nAriel\nMulan\nSimba\nAladdin\nJasmine\nRapunzel\nElsa\nAnna\nOlaf\nSnow White\nAurora\nTiana\nMerida\nPocahontas\nMoana\nWoody\nBuzz Lightyear\nNemo\nDory\nLightning McQueen\nSulley\nMike Wazowski\nStitch\nBelle\nGaston\nScar\nUrsula\nMaleficent\nHades\nCruella de Vil\nJafar\nCaptain Hook\nTinker Bell\nPeter Pan\nAlice\nHercules\nMegara\nTarzan\nQuasimodo\nEsmeralda\nJiminy Cricket\nPinocchio"
+    },
+    {
+        "id": "049",
+        "classification": "Movies",
+        "filename": "bollywood-stars.txt",
+        "prompt": "Shah Rukh Khan\nAmitabh Bachchan\nAishwarya Rai Bachchan\nSalman Khan\nPriyanka Chopra\nDeepika Padukone\nHrithik Roshan\nKareena Kapoor Khan\nRanbir Kapoor\nAnushka Sharma\nRanveer Singh\nKajol\nAkshay Kumar\nAlia Bhatt\nAjay Devgn\nKatrina Kaif\nShahid Kapoor\nVidya Balan\nSaif Ali Khan\nMadhuri Dixit"
+    },
+    {
+        "id": "050",
+        "classification": "Text",
+        "filename": "emojis.txt",
+        "prompt": "😀😂❤️🤔🎉👍🌞🌍🐶🐱🦄🐼🍎🍕🎂☕🚗✈️🚀🏖️⚽🏀🎵🎨🛍️🧩💡📚💌⏰🌈🌟💫🍓🥑🍔🍟🍰🍭🍿🏄‍♂️🚴‍♀️🧗‍♂️🏊‍♀️🎸🎲🎤🎬🏕️🏰🗽🕌🛳️🎢💍🕶️🎩🧣🧤🎒🍇🍈🍉🍊🍋🍌🍍🍎🍏🍐🍑🍒🍓🥝🍅🥥🥑🍆🥔🥕🌽🌶️🥒🥬🥦🧄🧅🍄🥜🌰🍞🥐🥖🥨🥯🥞🧇🍳🥚🍔🍟🌭🥪🥙🧆🌮🌯🥗🥘🍲🍛🍜🍝🍠🍢🍣🍤🍥🥮🍡🍦🍧🍨🍩🍪🎂🍰🧁🥧🍫🍬🍭🍮🍯🍼☕🍵🍶🍾🍷🍸🍹🍺🍻🥂🥃🥤🧃🧉🧊🥢🍽️🍴🥄🏺🌍🌎🌏🌐🗺️🗾🧭🏔️⛰️🌋🗻🏕️🏖️🏜️🏝️🏞️🏟️🏛️🏗️🧱🏘️🏚️🏠🏡🏢🏣🏤🏥🏦🏨🏩🏪🏫🏬🏭🏯🏰💒🗼🗽⛪🕌🕍🕋⛩️🛤️🛣️🗺️🗿🌅🌄🌠🎇🎆🌇🌆🏙️🌃🌌🌉"
+    },
+    {
+        "id": "051",
+        "classification": "Text",
+        "filename": "colors.txt",
+        "prompt": "Red\nBlue\nGreen\nYellow\nOrange\nPurple\nPink\nBlack\nWhite\nGrey\nCyan\nMagenta\nTeal\nMaroon\nNavy\nOlive\nLime\nAqua\nCoral\nFuchsia"
+    },
+    {
+        "id": "052",
+        "classification": "Text",
+        "filename": "calendar.txt",
+        "prompt": "Monday\nTuesday\nWednesday\nThursday\nFriday\nSaturday\nSunday\nJanuary\nFebruary\nMarch\nApril\nMay\nJune\nJuly\nAugust\nSeptember\nOctober\nNovember\nDecember"
+    },
+    {
+        "id": "053",
+        "classification": "Geography",
+        "filename": "american-cities.txt",
+        "prompt": "New York City\nLos Angeles\nChicago\nHouston\nPhoenix\nPhiladelphia\nSan Antonio\nSan Diego\nDallas\nSan Jose\nAustin\nJacksonville\nSan Francisco\nColumbus\nFort Worth\nIndianapolis\nCharlotte\nSeattle\nDenver\nWashington, D.C.\nBoston\nEl Paso\nNashville\nDetroit\nOklahoma City\nPortland\nLas Vegas\nMemphis\nLouisville\nBaltimore"
+    },
+    {
+        "id": "054",
+        "classification": "Geography",
+        "filename": "american-states.txt",
+        "prompt": "Alabama\nAlaska\nArizona\nArkansas\nCalifornia\nColorado\nConnecticut\nDelaware\nFlorida\nGeorgia\nHawaii\nIdaho\nIllinois\nIndiana\nIowa\nKansas\nKentucky\nLouisiana\nMaine\nMaryland\nMassachusetts\nMichigan\nMinnesota\nMississippi\nMissouri\nMontana\nNebraska\nNevada\nNew Hampshire\nNew Jersey\nNew Mexico\nNew York\nNorth Carolina\nNorth Dakota\nOhio\nOklahoma\nOregon\nPennsylvania\nRhode Island\nSouth Carolina\nSouth Dakota\nTennessee\nTexas\nUtah\nVermont\nVirginia\nWashington\nWest Virginia\nWisconsin\nWyoming"
+    },
+    {
+        "id": "055",
+        "classification": "Geography",
+        "filename": "mexican-cities.txt",
+        "prompt": "Mexico City\nGuadalajara\nMonterrey\nPuebla\nTijuana\nCiudad Juárez\nLeón\nZapopan\nCiudad Nezahualcóyotl\nMexicali\nAcapulco\nHermosillo\nQuerétaro\nCancún\nChihuahua\nAguascalientes\nMérida\nSan Luis Potosí\nCuliacán\nToluca"
+    },
+    {
+        "id": "056",
+        "classification": "Geography",
+        "filename": "english-counties.txt",
+        "prompt": "Bedfordshire\nBerkshire\nBristol\nBuckinghamshire\nCambridgeshire\nCheshire\nCornwall\nCounty Durham\nCumbria\nDerbyshire\nDevon\nDorset\nEast Riding of Yorkshire\nEast Sussex\nEssex\nGloucestershire\nGreater London\nGreater Manchester\nHampshire\nHerefordshire\nHertfordshire\nIsle of Wight\nKent\nLancashire\nLeicestershire\nLincolnshire\nMerseyside\nNorfolk\nNorthamptonshire\nNorthumberland\nNorth Yorkshire\nNottinghamshire\nOxfordshire\nRutland\nShropshire\nSomerset\nSouth Yorkshire\nStaffordshire\nSuffolk\nSurrey\nTyne and Wear\nWarwickshire\nWest Midlands\nWest Sussex\nWest Yorkshire\nWiltshire\nWorcestershires"
+    },
+    {
+        "id": "057",
+        "classification": "Geography",
+        "filename": "scottish-regions.txt",
+        "prompt": "Aberdeen City\nAberdeenshire\nAngus\nArgyll and Bute\nClackmannanshire\nDumfries and Galloway\nDundee City\nEast Ayrshire\nEast Dunbartonshire\nEast Lothian\nEast Renfrewshire\nCity of Edinburgh\nFalkirk\nFife\nGlasgow City\nHighland\nInverclyde\nMidlothian\nMoray\nNorth Ayrshire\nNorth Lanarkshire\nOrkney Islands\nPerth and Kinross\nRenfrewshire\nScottish Borders\nShetland Islands\nSouth Ayrshire\nSouth Lanarkshire\nStirling\nWest Dunbartonshire\nWest Lothian\nWestern Isles (Na h-Eileanan Siar)"
+    },
+    {
+        "id": "058",
+        "classification": "Geography",
+        "filename": "countries.txt",
+        "prompt": "United States of America (USA)\nJapan (日本)\nFrance (France)\nEgypt (مصر)\nRussia (Россия)\nBrazil (Brasil)\nIndia (भारत)\nChina (中国)\nNigeria (Nigeria)\nTurkey (Türkiye)\nMexico (México)\nSouth Korea (대한민국)\nAustralia (Australia)\nKenya (Kenya)\nArgentina (Argentina)\nThailand (ประเทศไทย)\nGermany (Deutschland)\nSouth Africa (South Africa)\nItaly (Italia)\nCanada (Canada)\nIran (ایران)\nIndonesia (Indonesia)\nUnited Kingdom (UK) (United Kingdom)\nSpain (España)\nMalaysia (Malaysia)\nChile (Chile)\nGreece (Ελλάδα)\nUnited Arab Emirates (UAE) (الإمارات العربية المتحدة)\nFinland (Suomi)\nCzech Republic (Česká republika)\nHungary (Magyarország)\nPoland (Polska)\nNetherlands (Nederland)\nBelgium (België/Belgique)\nAustria (Österreich)\nDenmark (Danmark)\nSweden (Sverige)\nNorway (Norge)\nPortugal (Portugal)\nIreland (Éire)\nSwitzerland (Schweiz/Suisse/Svizzera)\nScotland, UK (Scotland)\nWales, UK (Cymru)\nIceland (Ísland)\nEstonia (Eesti)\nLatvia (Latvija)\nLithuania (Lietuva)\nSerbia (Србија)\nBulgaria (България)\nRomania (România)\nBosnia and Herzegovina (Bosna i Hercegovina)\nCroatia (Hrvatska)\nSlovenia (Slovenija)\nNorth Macedonia (Северна Македонија)\nAlbania (Shqipëri)\nBelarus (Беларусь)\nUkraine (Україна)\nEthiopia (ኢትዮጵያ)\nMorocco (المغرب)\nAlgeria (الجزائر)\nGhana (Ghana)\nTanzania (Tanzania)\nUganda (Uganda)\nAngola (Angola)\nMadagascar (Madagascar)\nSenegal (Sénégal)\nZimbabwe (Zimbabwe)\nRwanda (Rwanda)\nNamibia (Namibia)\nZambia (Zambia)\nMozambique (Moçambique)\nBotswana (Botswana)\nSierra Leone (Sierra Leone)\nLiberia (Liberia)\nMali (Mali)\nNiger (Niger)\nColombia (Colombia)\nPeru (Perú)\nUruguay (Uruguay)\nVenezuela (Venezuela)\nEcuador (Ecuador)\nBolivia (Bolivia)\nParaguay (Paraguay)"
+    },
+    {
+        "id": "059",
+        "classification": "Geography",
+        "filename": "african-cities.txt",
+        "prompt": "Cairo\nLagos\nKinshasa\nJohannesburg\nNairobi\nAlexandria\nCasablanca\nCape Town\nDurban\nAddis Ababa\nDar es Salaam\nAlgiers\nAccra\nLuanda\nAbidjan\nKano\nIbadan\nKhartoum\nOuagadougou\nHarare\nBamako\nDakar\nTunis\nLusaka\nTripoli\nKampala\nConakry\nPretoria\nMaputo\nMombasa\nLubumbashi\nAsmara\nYaoundé\nAba\nOuagadougou\nFreetown\nOmdurman\nBrazzaville\nPort Harcourt\nCotonou\nLilongwe\nAntananarivo\nDouala\nGiza\nBenin City\nMbuji-Mayi\nKaduna\nPort Said\nMarrakech\nMonrovia"
+    },
+    {
+        "id": "060",
+        "classification": "Geography",
+        "filename": "world-cities.txt",
+        "prompt": "New York\nTokyo (東京)\nParis\nCairo (القاهرة)\nMoscow (Москва)\nRio de Janeiro\nMumbai (मुंबई)\nBeijing (北京)\nLagos\nIstanbul (İstanbul)\nMexico City (Ciudad de México)\nSeoul (서울)\nSydney\nNairobi\nBuenos Aires\nBangkok (กรุงเทพมหานคร)\nBerlin\nJohannesburg\nRome (Roma)\nToronto\nTehran (تهران)\nJakarta\nLondon\nMadrid\nKuala Lumpur\nSantiago\nAthens (Αθήνα)\nDubai (دبي)\nVancouver\nSingapore (Singapura/新加坡/சிங்கப்பூர்)\nHelsinki (Helsingfors in Swedish)\nBuenos Aires\nPrague (Praha)\nBudapest\nWarsaw (Warszawa)\nAmsterdam\nBrussels (Bruxelles/Brussel)\nVienna (Wien)\nCopenhagen (København)\nStockholm\nOslo\nLisbon (Lisboa)\nDublin (Baile Átha Cliath in Irish)\nZurich (Zürich)\nEdinburgh\nCardiff (Caerdydd in Welsh)\nReykjavik\nTallinn\nRiga\nVilnius\nBelgrade (Beograd)\nSofia\nBucharest (București)\nSarajevo\nZagreb\nLjubljana\nSkopje\nTirana\nMinsk (Мінск)\nKyiv (Київ)\nAddis Ababa (አዲስ አበባ)\nCape Town\nCasablanca (الدار البيضاء)\nAlgiers (الجزائر)\nAccra\nDar es Salaam\nKampala\nLuanda\nAntananarivo\nDakar\nHarare\nKigali\nWindhoek\nLusaka\nMaputo\nGaborone\nFreetown\nMonrovia\nBamako\nNiamey\nSão Paulo\nBogotá\nSantiago\nLima\nBuenos Aires\nMontevideo\nCaracas\nQuito\nLa Paz\nAsunción"
+    },
+    {
+        "id": "061",
+        "classification": "Geography",
+        "filename": "french-cities.txt",
+        "prompt": "Paris\nMarseille\nLyon\nToulouse\nNice\nNantes\nStrasbourg\nMontpellier\nBordeaux\nLille\nRennes\nReims\nLe Havre\nSaint-Étienne\nToulon\nGrenoble\nDijon\nAngers\nVilleurbanne\nLe Mans"
+    }
+]

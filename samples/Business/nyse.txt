@@ -1,0 +1,50 @@
+Apple Inc.
+Microsoft Corporation
+Amazon.com Inc.
+Alphabet Inc.
+Facebook, Inc.
+Berkshire Hathaway Inc.
+Johnson & Johnson
+JPMorgan Chase & Co.
+Visa Inc.
+Procter & Gamble Company
+Walmart Inc.
+Mastercard Incorporated
+UnitedHealth Group Incorporated
+Bank of America Corporation
+Walt Disney Company
+AT&T Inc.
+Pfizer Inc.
+Coca-Cola Company
+Home Depot, Inc.
+Chevron Corporation
+Verizon Communications Inc.
+Intel Corporation
+Cisco Systems, Inc.
+Merck & Co., Inc.
+IBM (International Business Machines) Corporation
+McDonald's Corporation
+Exxon Mobil Corporation
+Cisco Systems, Inc.
+Caterpillar Inc.
+3M Company (Minnesota Mining and Manufacturing)
+Honeywell International Inc.
+General Electric Company
+American Express Company
+Boeing Company
+Oracle Corporation
+Netflix Inc.
+PepsiCo, Inc.
+Goldman Sachs Group, Inc.
+Johnson Controls International plc
+DuPont de Nemours, Inc.
+Accenture plc
+General Motors Company
+United Technologies Corporation
+Bristol-Myers Squibb Company
+Costco Wholesale Corporation
+PayPal Holdings, Inc.
+Lowe's Companies, Inc.
+Thermo Fisher Scientific Inc.
+AbbVie Inc.
+Ford Motor Company

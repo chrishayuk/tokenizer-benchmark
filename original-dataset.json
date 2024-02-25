@@ -1,0 +1,318 @@
+[
+    {
+        "id": "001",
+        "classification": "Text Analysis",
+        "prompt": "New York City's vibrant culture attracts people worldwide.",
+        "description": "Test for proper noun recognition and handling of possessives."
+    },
+    {
+        "id": "002",
+        "classification": "Text Analysis",
+        "prompt": "Dr. Smith graduated from the University of California, San Francisco.",
+        "description": "Test for titles, compound names, and commas."
+    },
+    {
+        "id": "003",
+        "classification": "Text Analysis",
+        "prompt": "I can't wait for the launch of SpaceX's Crew-5 mission in 2022!",
+        "description": "Test for contractions, named entities, possessives, and numbers."
+    },
+    {
+        "id": "004",
+        "classification": "Text Analysis",
+        "prompt": "The price of bitcoin rose by 5% in the early hours of Monday morning.",
+        "description": "Test for handling of percentages, time expressions, and capitalization."
+    },
+    {
+        "id": "005",
+        "classification": "Text Analysis",
+        "prompt": "L'Oréal's new product range is a game-changer, according to Elle.",
+        "description": "Test for handling of apostrophes in names and quoted sources."
+    },
+    {
+        "id": "006",
+        "classification": "Language",
+        "subclassification": "characters",
+        "prompt": "¿Hablas español? Este mensaje está en otro idioma.",
+        "description": "Test for non-English text and punctuation like the inverted question mark."
+    },
+    {
+        "id": "007",
+        "classification": "Language",
+        "subclassification": "characters",
+        "prompt": "心理学は面白いです。それは人の心を探る学問です。",
+        "description": "Test for tokenization of languages without spaces between words, like Japanese."
+    },
+    {
+        "id": "008",
+        "classification": "Language",
+        "subclassification": "characters",
+        "prompt": "Разработка алгоритмов NLP требует глубоких знаний.",
+        "description": "Test for handling Cyrillic script and domain-specific abbreviations."
+    },
+    {
+        "id": "008",
+        "classification": "Language",
+        "subclassification": "email",
+        "prompt": "Email me at john.doe@example.com or visit our website http://www.example.com.",
+        "description": "Test for recognition and preservation of email addresses and URLs."
+    },
+    {
+        "id": "009",
+        "classification": "Language",
+        "subclassification": "characters",
+        "prompt": "The quick brown 🦊 jumps over the lazy 🐶.",
+        "description": "Test for handling of emojis within text."
+    },
+    {
+        "id": "010",
+        "classification": "Language",
+        "subclassification": "characters",
+        "prompt": "OMG, LOL 😂, IDK what's happening with #2020 🤷‍♂️!",
+        "description": "Test for text with acronyms, emojis, and hashtags."
+    },
+    {
+        "id": "011",
+        "classification": "Language",
+        "subclassification": "characters",
+        "prompt": "3.14 is an approximation of π, which is used in many mathematical formulas.",
+        "description": "Test for handling of numbers, symbols, and their context."
+    },
+    {
+        "id": "012",
+        "classification": "Language",
+        "subclassification": "French",
+        "prompt": "D'accord, je serai là à 14h00. À demain!",
+        "description": "Test for French text with time notation and accented characters."
+    },
+    {
+        "id": "013",
+        "classification": "Language",
+        "subclassification": "Chinese",
+        "prompt": "预计明年的GDP增长率为6.5%。",
+        "description": "Test for Chinese text with numbers and percentages."
+    },
+    {
+        "id": "014",
+        "classification": "Language",
+        "subclassification": "Acronyms",
+        "prompt": "In AI, NLP stands for 'Natural Language Processing'.",
+        "description": "Test for acronyms and their spelled-out forms within quotes."
+    },
+    {
+        "id": "014",
+        "classification": "Programming",
+        "subclassification": "Python",
+        "prompt": "def hello_world():\n    print('Hello, world!')",
+        "description": "Python function to print 'Hello, world!'"
+    },
+    {
+        "id": "015",
+        "classification": "Programming",
+        "subclassification": "C#",
+        "prompt": "using System;\nclass Program {\n    static void Main() {\n        Console.WriteLine(\"Hello, World!\");\n    }\n}",
+        "description": "C# program to print 'Hello, World!'"
+    },
+    {
+        "id": "016",
+        "classification": "Programming",
+        "subclassification": "JSON",
+        "prompt": "{\n  \"greeting\": \"Hello, world!\"\n}",
+        "description": "JSON object with a greeting message"
+    },
+    {
+        "id": "017",
+        "classification": "Programming",
+        "subclassification": "XML",
+        "prompt": "<greeting>Hello, world!</greeting>",
+        "description": "XML element with a greeting message"
+    },
+    {
+        "id": "018",
+        "classification": "Programming",
+        "subclassification": "Markdown",
+        "prompt": "# Hello, World!\nThis is a Markdown example.",
+        "description": "Markdown text with a header and description"
+    },
+    {
+        "id": "019",
+        "classification": "Programming",
+        "subclassification": "JavaScript",
+        "prompt": "console.log('Hello, World!');",
+        "description": "JavaScript code to log a greeting message"
+    },
+    {
+        "id": "020",
+        "classification": "Programming",
+        "subclassification": "TypeScript",
+        "prompt": "let message: string = 'Hello, World!';\nconsole.log(message);",
+        "description": "TypeScript code to log a typed greeting message"
+    },
+    {
+        "id": "020",
+        "classification": "Programming",
+        "subclassification": "Pascal",
+        "prompt": "program HelloWorld;\nbegin\n  writeln('Hello, World!');\nend.",
+        "description": "Pascal program to print 'Hello, World!'"
+    },
+    {
+        "id": "023",
+        "classification": "Programming",
+        "subclassification": "C++",
+        "prompt": "#include <iostream>\nint main() {\n    std::cout << \"Hello, World!\" << std::endl;\n    return 0;\n}",
+        "description": "C++ program to print 'Hello, World!'"
+    },
+    {
+        "id": "024",
+        "classification": "Programming",
+        "subclassification": "Go",
+        "prompt": "package main\n\nimport \"fmt\"\n\nfunc main() {\n    fmt.Println(\"Hello, World!\")\n}",
+        "description": "Go program to print 'Hello, World!'"
+    },
+    {
+        "id": "025",
+        "classification": "Programming",
+        "subclassification": "html",
+        "prompt": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Hello, World!</title>\n</head>\n<body>\n    <p>Hello, World!</p>\n</body>\n</html>",
+        "description": "HTML document with a greeting message"
+    },
+    {
+        "id": "026",
+        "classification": "Programming",
+        "subclassification": "React",
+        "prompt": "class HelloWorld extends React.Component {\n  render() {\n    return <h1>Hello, World!</h1>;\n  }\n}",
+        "description": "React component rendering 'Hello, World!'"
+    },
+    {
+        "id": "027",
+        "classification": "Programming",
+        "subclassification": "Angular",
+        "prompt": "import { Component } from '@angular/core';\n\n@Component({\n  selector: 'app-hello-world',\n  template: '<h1>Hello, World!</h1>'\n})\nexport class HelloWorldComponent {}",
+        "description": "Angular component displaying 'Hello, World!'"
+    },
+    {
+        "id": "028",
+        "classification": "Math",
+        "prompt": "E = mc^2",
+        "description": "Einstein's mass-energy equivalence formula."
+    },
+    {
+        "id": "029",
+        "classification": "Programming",
+        "subclassification": "LaTeX",
+        "prompt": "\\frac{-b \\pm \\sqrt{b^2-4ac}}{2a}",
+        "description": "Quadratic formula in LaTeX."
+    },
+    {
+        "id": "030",
+        "classification": "Programming",
+        "subclassification": "MathML",
+        "prompt": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mrow><mi>a</mi><mo>&#xB1;</mo><msqrt><msup><mi>b</mi><mn>2</mn></msup><mo>-</mo><mn>4</mn><mi>a</mi><mi>c</mi></msqrt></mrow><mo>/</mo><mrow><mn>2</mn><mi>a</mi></mrow></math>",
+        "description": "Quadratic formula in MathML."
+    },
+    {
+        "id": "031",
+        "classification": "Programming",
+        "subclassification": "LaTeX",
+        "prompt": "\\begin{equation} \\int_{a}^{b} f(x) dx = F(b) - F(a) \\end{equation}",
+        "description": "Definite integral of a function from a to b in LaTeX."
+    },
+    {
+        "id": "031",
+        "classification": "Programming",
+        "subclassification": "MathML",
+        "prompt": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mrow><msub><mo>&#x222B;</mo><mi>a</mi></msub><msup><mi>b</mi><mrow><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo><mi>d</mi><mi>x</mi></mrow></msup><mo>=</mo><mi>F</mi><mo>(</mo><mi>b</mi><mo>)</mo><mo>-</mo><mi>F</mi><mo>(</mo><mi>a</mi><mo>)</mo></mrow></math>",
+        "description": "Definite integral of a function from a to b in MathML."
+    },
+    {
+        "id": "032",
+        "classification": "Programming",
+        "subclassification": "C",
+        "prompt": "#include <stdio.h>\n\n/*\nThis is a header comment for the main file\n*/\nint main()\n{\n    // single line comment that prints out hello world\n    printf(\"Hello, World!\");\n\n    // returns 0\n    return 0;\n}",
+        "description": "C program to print 'Hello, World!'"
+    },
+    {
+        "id": "033",
+        "classification": "Programming",
+        "subclassification": "C",
+        "prompt": "#include <stdio.h>\n\nint main() {\n    int number, square;\n\n    // Prompt the user for input\n    printf(\"Enter an integer: \");\n    \n    // Read an integer from the user\n    scanf(\"%d\", &number);\n\n    // Calculate the square of the number\n    square = number * number;\n\n    // Print the result\n    printf(\"The square of %d is %d.\\n\", number, square);\n\n    return 0;\n}\n",
+        "description": "squares a number"
+    },
+    {
+        "id": "034",
+        "classification": "Programming",
+        "subclassification": "C",
+        "prompt": "#include <stdio.h>\n\n#define SIZE 10 // Define the size of the array\n\n// Function prototypes\ndouble calculateAverage(int arr[], int size);\nvoid findMinAndMax(int arr[], int size, int *min, int *max);\n\nint main() {\n    int numbers[SIZE] = {10, 20, 30, 40, 50, 60, 70, 80, 90, 100};\n    double average;\n    int min, max;\n\n    // Calculate the average of the array\n    average = calculateAverage(numbers, SIZE);\n    printf(\"Average: %.2f\\n\", average);\n\n    // Find the minimum and maximum values in the array\n    findMinAndMax(numbers, SIZE, &min, &max);\n    printf(\"Minimum: %d\\n\", min);\n    printf(\"Maximum: %d\\n\", max);\n\n    return 0;\n}\n\n// Function to calculate the average of an array\ndouble calculateAverage(int arr[], int size) {\n    int sum = 0;\n    for (int i = 0; i < size; i++) {\n        sum += arr[i];\n    }\n    return (double)sum / size;\n}\n\n// Function to find the minimum and maximum values in an array\nvoid findMinAndMax(int arr[], int size, int *min, int *max) {\n    *min = *max = arr[0]; // Initialize min and max with the first element of the array\n    for (int i = 1; i < size; i++) {\n        if (arr[i] < *min) {\n            *min = arr[i]; // Update min if the current element is smaller\n        }\n        if (arr[i] > *max) {\n            *max = arr[i]; // Update max if the current element is larger\n        }\n    }\n}",
+        "description": "demonstrator of the language"
+    },
+    {
+        "id": "035",
+        "classification": "Programming",
+        "subclassification": "Rust",
+        "prompt": "use rand::Rng; // Rng trait defines methods that random number generators implement\nuse std::cmp::Ordering; // For comparing the guess to the secret number\nuse std::io; // For input/output operations\n\nfn main() {\n    println!(\"Guess the number!\");\n\n    // Generate a random number between 1 and 100\n    let secret_number = rand::thread_rng().gen_range(1..=100);\n\n    loop {\n        println!(\"Please input your guess.\");\n\n        let mut guess = String::new();\n\n        // Read the user's guess from standard input\n        io::stdin()\n            .read_line(&mut guess)\n            .expect(\"Failed to read line\");\n\n        // Convert the string to a number\n        let guess: u32 = match guess.trim().parse() {\n            Ok(num) => num,\n            Err(_) => {\n                println!(\"Please type a number!\");\n                continue;\n            },\n        };\n\n        // Compare the guess to the secret number\n        match guess.cmp(&secret_number) {\n            Ordering::Less => println!(\"Too small!\"),\n            Ordering::Greater => println!(\"Too big!\"),\n            Ordering::Equal => {\n                println!(\"You win!\");\n                break; // Exit the loop if the guess is correct\n            },\n        }\n    }\n}\n",
+        "description": "random number generator demonstrator of the language"
+    },
+    {
+        "id": "036",
+        "classification": "Programming",
+        "subclassification": "Rust",
+        "prompt": "use futures_util::{StreamExt, SinkExt, stream::{SplitSink, SplitStream}};\nuse tokio::io::{AsyncRead, AsyncWrite};\nuse tokio::io::{self, AsyncBufReadExt};\nuse tokio_tungstenite::{connect_async, tungstenite::Message, WebSocketStream};\n\nasync fn register_bot(write: &mut SplitSink<WebSocketStream<impl AsyncRead + AsyncWrite + Unpin>, Message>, bot_name: &str) {\n    let registration_message = Message::Text(format!(\"register as {}\", bot_name));\n    write.send(registration_message).await.expect(\"Failed to send registration message\");\n}\n\nasync fn handle_incoming_messages(mut read: SplitStream<WebSocketStream<impl AsyncRead + AsyncWrite + Unpin>>) {\n    while let Some(message) = read.next().await {\n        match message {\n            Ok(msg) => println!(\"Received a message: {}\", msg),\n            Err(e) => eprintln!(\"Error receiving message: {}\", e),\n        }\n    }\n}\n\nasync fn read_and_send_messages(mut write: SplitSink<WebSocketStream<impl AsyncRead + AsyncWrite + Unpin>, Message>) {\n    let mut reader = io::BufReader::new(io::stdin()).lines();\n    while let Some(line) = reader.next_line().await.expect(\"Failed to read line\") {\n        if !line.trim().is_empty() {\n            write.send(Message::Text(line)).await.expect(\"Failed to send message\");\n        }\n    }\n}\n\n\n#[tokio::main]\nasync fn main() {\n    let url = \"ws://localhost:3000\";\n\n    println!(\"Connecting to - {}\", url);\n    let (ws_stream, _) = connect_async(url).await.expect(\"Failed to connect\");\n    println!(\"Connected to Agent Network\");\n\n    let (mut write, mut read) = ws_stream.split();\n\n    // register the timebot\n    register_bot(&mut write, \"RustClient\").await;\n\n    // Handle incoming messages in a separate task\n    let read_handle = tokio::spawn(handle_incoming_messages(read));\n\n    // Read from command line and send messages\n    let write_handle = tokio::spawn(read_and_send_messages(write));\n\n    // Await both tasks (optional, depending on your use case)\n    let _ = tokio::try_join!(read_handle, write_handle);\n}",
+        "description": "Rust Timebot"
+    },
+    {
+        "id": "037",
+        "classification": "Programming",
+        "subclassification": "Rust",
+        "prompt": "fn main() {\n    println!(\"Hello, World!\");\n}",
+        "description": "Rust function to print 'Hello, World!'"
+    },
+    {
+        "id": "038",
+        "classification": "Programming",
+        "subclassification": "Rust",
+        "prompt": "fn main() {\n    let numbers = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100];\n    let average = calculate_average(&numbers);\n    println!(\"Average: {:.2}\", average);\n\n    let (min, max) = find_min_and_max(&numbers);\n    println!(\"Minimum: {}\", min);\n    println!(\"Maximum: {}\", max);\n}\n\nfn calculate_average(numbers: &[i32]) -> f64 {\n    let sum: i32 = numbers.iter().sum();\n    sum as f64 / numbers.len() as f64\n}\n\nfn find_min_and_max(numbers: &[i32]) -> (i32, i32) {\n    let min = *numbers.iter().min().expect(\"Array cannot be empty\");\n    let max = *numbers.iter().max().expect(\"Array cannot be empty\");\n    (min, max)\n}\n",
+        "description": "demonstrator of the language"
+    },
+    {
+        "id": "039",
+        "classification": "Programming",
+        "subclassification": "Rust",
+        "prompt": "use tokio::net::{TcpListener, TcpStream};\nuse tokio::io::{AsyncWriteExt,AsyncReadExt};\nuse std::str::FromStr;\nuse uuid::Uuid;\n\n// constants\nconst KARIN_SERVER_ADDRESS: &str = \"127.0.0.1:8001\";\nconst SIROCCO_SERVER_ADDRESS: &str = \"127.0.0.1:8000\";\n\n#[tokio::main]\nasync fn main() {\n    // starting\n    println!(\"karin starting {}\", KARIN_SERVER_ADDRESS);\n    \n    // bind\n    let listener = TcpListener::bind(KARIN_SERVER_ADDRESS).await.unwrap();\n\n    // starting\n    println!(\"karin listening {}\", KARIN_SERVER_ADDRESS);\n\n    // loop through incoming connections\n    loop {\n        // accept the connection\n        let (socket, _) = listener.accept().await.unwrap();\n\n        tokio::spawn(async move {\n            handle_connection(socket).await;\n        });\n    }\n}\n\nasync fn handle_connection(mut stream: TcpStream) {\n    // create uuid\n    let id = Uuid::new_v4();\n\n    // create the buffer\n    let mut buffer = [0; 1024];\n\n    // read the stream\n    let len = stream.read(&mut buffer).await.unwrap();\n\n    // output the request\n    let message = String::from_utf8_lossy(&buffer[..len]);\n    println!(\"{} - received: {}\", id, message);\n\n    // call sirocco\n    let sirocco_message = call_sirocco(id, message.to_owned().to_string()).await;\n    let output = format!(\"sirocco says: {}\", sirocco_message);\n\n    // send out message\n    let _ = stream.write_all(output.as_bytes()).await;\n    println!(\"{} - sent: {}\", id, message);\n}\n\nasync fn call_sirocco(id:Uuid, message: String) -> String {\n    // connecting\n    println!(\"{} - connecting to sirocco: {}\",id, SIROCCO_SERVER_ADDRESS);\n\n    // connected\n    if let Ok(mut stream) = TcpStream::connect(SIROCCO_SERVER_ADDRESS).await {\n        // connected message\n        println!(\n            \"{} - connected to sirocco: {}:{}\",\n            id,\n            stream.local_addr().unwrap().ip(),\n            stream.local_addr().unwrap().port()\n        );\n\n        // set our message as hello world\n        let _ = stream.write_all(message.as_bytes()).await;\n        println!(\"{} - sent: {}\", id, message);\n \n        // read the result\n        let mut buffer = [0; 1024];\n        let len = stream.read(&mut buffer).await.unwrap();\n        let message = String::from_utf8_lossy(&buffer[..len]); \n        println!(\"{} - received from sirocco: {}\", id, message);\n\n        // return the message\n        return message.to_owned().to_string();\n    } else {\n        println!(\n            \"{} - couldn't connect to sirocco: {}\",\n            id,\n            SIROCCO_SERVER_ADDRESS\n        );\n\n        // sirocco is not available\n        return String::from_str(\"sirocco is not available\").unwrap();\n    }\n}",
+        "description": "karin"
+    },
+    {
+        "id": "040",
+        "classification": "Programming",
+        "subclassification": "TypeScript",
+        "prompt": "import { urlencoded } from \"body-parser\";\nimport express from \"express\";\nimport { createCanvas } from \"canvas\";\nconst sleep = (ms:number) => new Promise(resolve => setTimeout(resolve, ms));\n\n/// draws the text to the png\nfunction draw(text: string) {\n  // setup\n  const canvas = createCanvas(300, 150);\n  const ctx = canvas.getContext(\"2d\");\n\n  ctx.font = '30px Hack';\n  ctx.fillStyle = \"blue\";\n  ctx.rotate(0.1);\n  ctx.fillText(text, 50, 75);\n\n  return canvas;\n}\n\n// export the create server function\n// http://localhost:3000/text2png?text=chrishayuk&sleep=2000\nexport const createServer = () => {\n  const app = express();\n  app\n    //.use(urlencoded({ extended: true }))\n    .get(\"/\", (req, res) => {\n      res.setHeader('Content-Type', 'text/plain');\n      return res.send(\"hello, i'm Linval, i'm a very slow but happy image server\");\n    })\n    .get(\"/text2png\", async (req, res) => {\n      // set the header\n      res.setHeader('Content-Type', 'image/png');\n\n      // set the text\n      let text = '@chrishayuk';\n\n      // check if we should sleep\n      if (req.query.sleep)\n        await sleep(parseInt(req.query.sleep as string));\n\n      // accept text as a parameter\n      if (req.query.text)\n        text = req.query.text as string;\n\n      // draw the canvas and pipe back\n      draw(text).pngStream().pipe(res);\n    })\n\n  return app;\n};",
+        "description": "linval"
+    },
+    {
+        "id": "041",
+        "classification": "Programming",
+        "subclassification": "TypeScript",
+        "prompt": "import { TimeBot } from './TimeBot';\nimport { NlpManager } from 'node-nlp';\nimport { BotConfig } from './BotConfig';\n\nexport class AsciiTimeBot extends TimeBot {\n    constructor(botConfig: BotConfig, nlpManager: NlpManager) {\n        super(botConfig, nlpManager);\n    }\n\n    protected handleIntent(intent: string, senderId: string, message: string): void {\n        if (intent === \"time.check\") {\n            const timezone = this.settings.timezone || 'UTC';\n            const currentTime = new Date().toLocaleTimeString('en-GB', { timeZone: timezone, hour12: false });\n\n            // Debug: Check the format of the time\n            //console.log(`Current Time: ${currentTime}`);\n\n            const asciiTime = this.convertTimeToAscii(currentTime);\n            this.sendMessage(`@${senderId} The current time in ASCII art:Line 1\\nLine 2\"`);\n            console.log(asciiTime);\n        } else {\n            console.log(\"Received non-time check message.\");\n        }\n    }\n\n    private convertTimeToAscii(time: string): string {\n        const asciiDigits = {\n            '0': [' 000 ', '0   0', '0   0', '0   0', ' 000 '],\n            '1': ['  1  ', ' 11  ', '  1  ', '  1  ', ' 111 '],\n            '2': [' 222 ', '2   2', '  2  ', ' 2   ', '22222'],\n            '3': ['3333 ', '    3', ' 333 ', '    3', '3333 '],\n            '4': ['4  4 ', '4  4 ', '44444', '   4 ', '   4 '],\n            '5': ['55555', '5    ', '5555 ', '    5', '5555 '],\n            '6': [' 666 ', '6    ', '6666 ', '6   6', ' 666 '],\n            '7': ['77777', '   7 ', '  7  ', ' 7   ', '7    '],\n            '8': [' 888 ', '8   8', ' 888 ', '8   8', ' 888 '],\n            '9': [' 999 ', '9   9', ' 9999', '    9', ' 999 '],\n            ':': ['     ', '  *  ', '     ', '  *  ', '     ']\n        };\n        \n\n        let asciiTime = '';\n        for (let i = 0; i < 5; i++) {\n            let line = '';\n            for (const char of time) {\n                if (asciiDigits[char]) {\n                    line += asciiDigits[char][i] + '  ';\n                } else {\n                    line += '     '; // For unsupported characters, add spaces\n                }\n            }\n            asciiTime += line + '\\n';\n\n            // Additional Debugging\n            //console.log(line);\n        }\n\n        return asciiTime;\n    }\n}",
+        "description": "unix time"
+    },
+    {
+        "id": "042",
+        "classification": "Programming",
+        "subclassification": "TypeScript",
+        "prompt": "import { BaseBot } from '../BaseBot';\nimport { NlpManager } from 'node-nlp';\nimport { BotConfig } from '../BotConfig';\n\nexport class UnixTimeBot extends BaseBot {\n    // constructor\n    constructor(botConfig: BotConfig, nlpManager: NlpManager) {\n        // call base class\n        super(botConfig.name, botConfig.type, botConfig.description, botConfig.settings, nlpManager, botConfig.welcomeMessage);\n    }\n\n    // handle the intent\n    protected handleIntent(intent: string, senderId: string, message: string): void {\n        // looks for a time check\n        if (intent === \"unix.time.check\" || intent === \"time.check\") {\n            // get the current unix time\n            const unixTime = Math.floor(Date.now() / 1000);\n\n            // send the current time to the sender\n            this.sendMessage(`@${senderId} The current Unix time is: ${unixTime}`);\n        } else {\n            console.log(\"Received non-unix time check message.\");\n        }\n    }\n}",
+        "description": "ascii time"
+    },
+    {
+        "id": "043",
+        "classification": "Programming",
+        "subclassification": "BASIC",
+        "prompt": "10 PRINT \"Welcome to the BASIC Demonstrator Program\"\n20 PRINT \"Select an option:\"\n30 PRINT \"1 - Addition\"\n40 PRINT \"2 - Subtraction\"\n50 PRINT \"3 - Multiplication\"\n60 PRINT \"4 - Division\"\n70 PRINT \"5 - Draw a Square\"\n80 PRINT \"6 - Exit\"\n90 INPUT \"Enter your choice (1-6): \", CHOICE\n\n100 IF CHOICE = 1 THEN GOTO 200\n110 IF CHOICE = 2 THEN GOTO 300\n120 IF CHOICE = 3 THEN GOTO 400\n130 IF CHOICE = 4 THEN GOTO 500\n140 IF CHOICE = 5 THEN GOTO 600\n150 IF CHOICE = 6 THEN GOTO 700\n\n160 PRINT \"Invalid choice, please select 1-6\"\n170 GOTO 20\n\n' Addition\n200 INPUT \"Enter first number: \", A\n210 INPUT \"Enter second number: \", B\n220 C = A + B\n230 PRINT \"Result: \"; A; \" + \"; B; \" = \"; C\n240 GOTO 20\n\n' Subtraction\n300 INPUT \"Enter first number: \", A\n310 INPUT \"Enter second number: \", B\n320 C = A - B\n330 PRINT \"Result: \"; A; \" - \"; B; \" = \"; C\n340 GOTO 20\n\n' Multiplication\n400 INPUT \"Enter first number: \", A\n410 INPUT \"Enter second number: \", B\n420 C = A * B\n430 PRINT \"Result: \"; A; \" * \"; B; \" = \"; C\n440 GOTO 20\n\n' Division\n500 INPUT \"Enter first number: \", A\n510 INPUT \"Enter second number: \", B\n520 IF B = 0 THEN PRINT \"Cannot divide by zero\": GOTO 500\n530 C = A / B\n540 PRINT \"Result: \"; A; \" / \"; B; \" = \"; C\n550 GOTO 20\n\n' Draw a Square\n600 CLS ' Clear the screen\n610 FOR I = 100 TO 200 STEP 10\n620 LINE (I,100)-(I,200)\n630 LINE (100,I)-(200,I)\n640 NEXT I\n650 PRINT \"Press any key to return to menu\"\n660 GETKEY$ ' Wait for a key press\n670 CLS ' Clear the screen\n680 GOTO 20\n\n' Exit\n700 PRINT \"Thank you for using the BASIC Demonstrator Program\"\n710 END",
+        "description": "demonstrator"
+    },
+    {
+        "id": "044",
+        "classification": "Programming",
+        "subclassification": "BASIC",
+        "prompt": "10 PRINT \"Guess the Number Game\"\n20 PRINT \"I'm thinking of a number between 1 and 100.\"\n\n30 RANDOMIZE TIMER\n40 SECRET = INT(RND * 100) + 1\n\n50 PRINT \"Enter your guess:\"\n60 INPUT GUESS\n\n70 IF GUESS < SECRET THEN PRINT \"Too low, try again.\": GOTO 50\n80 IF GUESS > SECRET THEN PRINT \"Too high, try again.\": GOTO 50\n90 IF GUESS = SECRET THEN PRINT \"Congratulations! You guessed it!\": END\n\n100 PRINT \"Do you want to play again (Y/N)?\"\n110 INPUT ANSWER$\n120 IF UPPER$(ANSWER$) = \"Y\" THEN GOTO 20\n130 PRINT \"Thank you for playing!\"\n140 END",
+        "description": "guess"
+    }
+   ]

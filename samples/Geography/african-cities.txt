@@ -1,0 +1,50 @@
+Cairo
+Lagos
+Kinshasa
+Johannesburg
+Nairobi
+Alexandria
+Casablanca
+Cape Town
+Durban
+Addis Ababa
+Dar es Salaam
+Algiers
+Accra
+Luanda
+Abidjan
+Kano
+Ibadan
+Khartoum
+Ouagadougou
+Harare
+Bamako
+Dakar
+Tunis
+Lusaka
+Tripoli
+Kampala
+Conakry
+Pretoria
+Maputo
+Mombasa
+Lubumbashi
+Asmara
+Yaoundé
+Aba
+Ouagadougou
+Freetown
+Omdurman
+Brazzaville
+Port Harcourt
+Cotonou
+Lilongwe
+Antananarivo
+Douala
+Giza
+Benin City
+Mbuji-Mayi
+Kaduna
+Port Said
+Marrakech
+Monrovia
